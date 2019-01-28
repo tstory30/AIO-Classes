@@ -9212,6 +9212,24 @@
 							<p>While within the sphere, you and your allies gain a +5 bonus to Dexterity (Stealth) and Wisdom (Perception) checks, and any light from open flames in the sphere (a campfire, torches, or the like) isn't visible outside it.</p>
 							<p>The sphere vanishes at the end of the rest or when you leave the sphere.</p>
 					</hearthofmoonlightandshadow6>
+					<hiddenpaths10>
+						<level type="number">10</level>
+						<name type="string">Hidden Paths</name>
+						<specialization type="string">Circle of Dreams</specialization>
+						<type type="formattedtext">
+							<p>Starting at 10th level, you can use the hidden, magical pathways that some fey use to traverse space in a blink of an eye. As a bonus action on your turn, you can teleport up to 60 feet to an unoccupied space you can see. Alternatively, you can use your action to teleport one willing creature you touch up to 30 feet to an unoccupied space you can see.</p>
+							<p>You can use this feature a number of times equal to your Wisdom modifier (minimum of once), and you regain all expended uses of it when you finish a long rest.</p>
+					</hiddenpaths10>
+					<walkerindreams14>
+						<level type="number">14</level>
+						<name type="string">Walker in Dreams</name>
+						<specialization type="string">Circle of Dreams</specialization>
+						<type type="formattedtext">
+							<p>At 14th level, the magic of the Feywild grants you the ability to travel mentally or physically through dreamlands.</p>
+							<p>When you finish a short rest, you can cast one of the following spells, without expending a spell slot or requiring material components: Dream (with you as the messenger), Scrying, or Teleportation Circle.</p>
+							<p>This use of Teleportation Circle is special. Rather than opening a portal to a permanent teleportation circle, it opens a portal to the last location where you finished a long rest on your current plane of existence. If you haven't taken a long rest on your current plane, the spell fails but isn't wasted.</p>
+							<p>Once you use this feature, you can't use it again until you finish a long rest</p>
+					</walkerindreams14>
 					<combatwildshape2>
 						<level type="number">2</level>
 						<name type="string">Combat Wild Shape</name>

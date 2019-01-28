@@ -1,0 +1,992 @@
+
+			<id-00013>
+				<abilities>
+					<beastmaster>
+						<level type="number">1</level>
+						<name type="string">Beast Master</name>
+						<text type="formattedtext">
+							<p>The Beast Master archetype embodies a friendship between the civilized races and the beasts of the world. United in focus, beast and ranger work as one to fight the monstrous foes that threaten civilization and the wilderness alike. Emulating the Beast Master archetype means committing yourself to this ideal, working in partnership with an animal as its companion and friend.</p>
+							<h>Features</h>
+							<linklist>
+								<link class="reference_classfeature" recordname="....features.ranger_scompanion3">Ranger's Companion</link>
+								<link class="reference_classfeature" recordname="....features.exceptionaltraining7">Exceptional Training</link>
+								<link class="reference_classfeature" recordname="....features.bestialfury11">Bestial Fury</link>
+								<link class="reference_classfeature" recordname="....features.sharespells15">Share Spells</link>
+							</linklist>
+						</text>
+					</beastmaster>
+					<hunter>
+						<level type="number">1</level>
+						<name type="string">Hunter</name>
+						<text type="formattedtext">
+							<p>Emulating the Hunter archetype means accepting your place as a bulwark between civilization and the terrors of the wilderness. As you walk the Hunter's path, you learn specialized techniques for fighting the threats you face, from rampaging ogres and hordes of orcs to towering giants and terrifying dragons.</p>
+							<h>Features</h>
+							<linklist>
+								<link class="reference_classfeature" recordname="....features.hunter_sprey3">Hunter's Prey</link>
+								<link class="reference_classfeature" recordname="....features.defensivetactics7">Defensive Tactics</link>
+								<link class="reference_classfeature" recordname="....features.multiattack11">Multiattack</link>
+								<link class="reference_classfeature" recordname="....features.superiorhunter_sdefense15">Superior Hunter's Defense</link>
+							</linklist>
+						</text>
+					</hunter>
+				</abilities>
+				<equipment>
+					<standard>
+						<group type="string">standard</group>
+					</standard>
+				</equipment>
+				<features>
+					<abilityscoreimprovement12>
+						<level type="number">12</level>
+						<name type="string">Ability Score Improvement</name>
+						<text type="formattedtext">
+							<p>When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.</p>
+						</text>
+					</abilityscoreimprovement12>
+					<abilityscoreimprovement16>
+						<level type="number">16</level>
+						<name type="string">Ability Score Improvement</name>
+						<text type="formattedtext">
+							<p>When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.</p>
+						</text>
+					</abilityscoreimprovement16>
+					<abilityscoreimprovement19>
+						<level type="number">19</level>
+						<name type="string">Ability Score Improvement</name>
+						<text type="formattedtext">
+							<p>When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.</p>
+						</text>
+					</abilityscoreimprovement19>
+					<abilityscoreimprovement4>
+						<level type="number">4</level>
+						<name type="string">Ability Score Improvement</name>
+						<text type="formattedtext">
+							<p>When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.</p>
+						</text>
+					</abilityscoreimprovement4>
+					<abilityscoreimprovement8>
+						<level type="number">8</level>
+						<name type="string">Ability Score Improvement</name>
+						<text type="formattedtext">
+							<p>When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.</p>
+						</text>
+					</abilityscoreimprovement8>
+					<bestialfury11>
+						<level type="number">11</level>
+						<name type="string">Bestial Fury</name>
+						<specialization type="string">Beast Master</specialization>
+						<text type="formattedtext">
+							<p>Starting at 11th level, your beast companion can make two attacks when you command it to use the Attack action. When you command the beast to take the Attack action, the beast can attack twice or take the Multiattack action if it has that action.</p>
+						</text>
+					</bestialfury11>
+					<defensivetactics7>
+						<level type="number">7</level>
+						<name type="string">Defensive Tactics</name>
+						<specialization type="string">Hunter</specialization>
+						<text type="formattedtext">
+							<p>At 7th level, you gain one of the following features of your choice.</p>
+							<p><b>Escape the Horde. </b>Opportunity attacks against you are made with disadvantage.</p>
+							<p><b>Multiattack Defense. </b>When a creature hits you with an attack, you gain a +4 bonus to AC against all subsequent attacks made by that creature for the rest of the turn.</p>
+							<p><b>Steel Will. </b>You have advantage on saving throws against being frightened.</p>
+						</text>
+					</defensivetactics7>
+					<exceptionaltraining7>
+						<level type="number">7</level>
+						<name type="string">Exceptional Training</name>
+						<specialization type="string">Beast Master</specialization>
+						<text type="formattedtext">
+							<p>Beginning at 7th level, on any of your turns when your beast companion doesn't attack, you can use a bonus action to command the beast to take the Dash, Disengage, or Help action on its turn. In addition, the beast's attacks now count as magical for the purpose of overcoming resistance and immunity to nonmagical attacks and damage.</p>
+						</text>
+					</exceptionaltraining7>
+					<extraattack5>
+						<level type="number">5</level>
+						<name type="string">Extra Attack</name>
+						<text type="formattedtext">
+							<p>Beginning at 5th level, you can attack twice, instead of once, whenever you take the Attack action on your turn.</p>
+						</text>
+					</extraattack5>
+					<favoredenemy1>
+						<level type="number">1</level>
+						<name type="string">Favored Enemy</name>
+						<text type="formattedtext">
+							<p>Beginning at 1st level, you have significant experience studying, tracking, hunting, and even talking to a certain type of enemy.</p>
+							<p>Choose a type of favored enemy: aberrations, beasts, celestials, constructs, dragons, elementals, fey, fiends, giants, monstrosities, oozes, plants, or undead. Alternatively, you can select two races of humanoid (such as gnolls and orcs) as favored enemies.</p>
+							<p>You have advantage on Wisdom(Survival) checks to track your favored enemies, as well as on Intelligence checks to recall information about them.</p>
+							<p>When you gain this feature, you also learn one language of your choice that is spoken by your favored enemies, if they speak one at all.</p>
+							<p>You choose one additional favored enemy, as well as an associated language, at 6th and 14th level. As you gain levels, your choices should reflect the types of monsters you have encountered on your adventures.</p>
+						</text>
+					</favoredenemy1>
+					<favoredenemy14>
+						<level type="number">14</level>
+						<name type="string">Favored Enemy</name>
+						<text type="formattedtext">
+							<p>Beginning at 1st level, you have significant experience studying, tracking, hunting, and even talking to a certain type of enemy.</p>
+							<p>Choose a type of favored enemy: aberrations, beasts, celestials, constructs, dragons, elementals, fey, fiends, giants, monstrosities, oozes, plants, or undead. Alternatively, you can select two races of humanoid (such as gnolls and orcs) as favored enemies.</p>
+							<p>You have advantage on Wisdom(Survival) checks to track your favored enemies, as well as on Intelligence checks to recall information about them.</p>
+							<p>When you gain this feature, you also learn one language of your choice that is spoken by your favored enemies, if they speak one at all.</p>
+							<p>You choose one additional favored enemy, as well as an associated language, at 6th and 14th level. As you gain levels, your choices should reflect the types of monsters you have encountered on your adventures.</p>
+						</text>
+					</favoredenemy14>
+					<favoredenemy6>
+						<level type="number">6</level>
+						<name type="string">Favored Enemy</name>
+						<text type="formattedtext">
+							<p>Beginning at 1st level, you have significant experience studying, tracking, hunting, and even talking to a certain type of enemy.</p>
+							<p>Choose a type of favored enemy: aberrations, beasts, celestials, constructs, dragons, elementals, fey, fiends, giants, monstrosities, oozes, plants, or undead. Alternatively, you can select two races of humanoid (such as gnolls and orcs) as favored enemies.</p>
+							<p>You have advantage on Wisdom(Survival) checks to track your favored enemies, as well as on Intelligence checks to recall information about them.</p>
+							<p>When you gain this feature, you also learn one language of your choice that is spoken by your favored enemies, if they speak one at all.</p>
+							<p>You choose one additional favored enemy, as well as an associated language, at 6th and 14th level. As you gain levels, your choices should reflect the types of monsters you have encountered on your adventures.</p>
+						</text>
+					</favoredenemy6>
+					<feralsenses18>
+						<level type="number">18</level>
+						<name type="string">Feral Senses</name>
+						<text type="formattedtext">
+							<p>At 18th level, you gain preternatural senses that help you fight creatures you can't see. When you attack a creature you can't see, your inability to see it doesn't impose disadvantage on your attack rolls against it. You are also aware of the location of any invisible creature within 30 feet of you, provided that the creature isn't hidden from you and you aren't blinded or deafened.</p>
+						</text>
+					</feralsenses18>
+					<fightingstyle2>
+						<level type="number">2</level>
+						<name type="string">Fighting Style</name>
+						<text type="formattedtext">
+							<p>At 2nd level, you adopt a particular style of fighting as your specialty. Choose one of the following options. You can't take a Fighting Style option more than once, even if you later get to choose again.</p>
+							<p><b>Archery</b></p>
+							<p>You gain a +2 bonus to attack rolls you make with ranged weapons.</p>
+							<p><b>Defense</b></p>
+							<p>While you are wearing armor, you gain a +1 bonus to AC.</p>
+							<p><b>Dueling</b></p>
+							<p>When you are wielding a melee weapon in one hand and no other weapons, you gain a +2 bonus to damage rolls with that weapon.</p>
+							<p><b>Two-Weapon Fighting</b></p>
+							<p>When you engage in two-weapon fighting, you can add your ability modifier to the damage of the second attack.</p>
+						</text>
+					</fightingstyle2>
+					<foeslayer20>
+						<level type="number">20</level>
+						<name type="string">Foe Slayer</name>
+						<text type="formattedtext">
+							<p>At 20th level, you become an unparalleled hunter of your enemies. Once on each of your turns, you can add your Wisdom modifier to the attack roll or the damage roll of an attack you make against one of your favored enemies. You can choose to use this feature before or after the roll, but before any effects of the roll are applied.</p>
+						</text>
+					</foeslayer20>
+					<hideinplainsight10>
+						<level type="number">10</level>
+						<name type="string">Hide in Plain Sight</name>
+						<text type="formattedtext">
+							<p>Starting at 10th level, you can spend 1 minute creating camouflage for yourself. You must have access to fresh mud, dirt, plants, soot, and other naturally occurring materials with which to create your camouflage.</p>
+							<p>Once you are camouflaged in this way, you can try to hide by pressing yourself up against a solid surface, such as a tree or wall, that is at least as tall and wide as you are. You gain a +10 bonus to Dexterity (Stealth) checks as long as you remain there without moving or taking actions. Once you move or take an action or a reaction, you must camouflage yourself again to gain this benefit.</p>
+						</text>
+					</hideinplainsight10>
+					<hunter_sprey3>
+						<level type="number">3</level>
+						<name type="string">Hunter's Prey</name>
+						<specialization type="string">Hunter</specialization>
+						<text type="formattedtext">
+							<p>At 3rd level, you gain one of the following features of your choice.</p>
+							<p><b>Colossus Slayer. </b>Your tenacity can wear down the most potent foes. When you hit a creature with a weapon attack, the creature takes an extra 1d8 damage if it's below its hit point maximum. You can deal this extra damage only once per turn.</p>
+							<p><b>Giant Killer. </b>When a Large or larger creature within 5 feet of you hits or misses you with an attack, you can use your reaction to attack that creature immediately after its attack, provided that you can see the creature.</p>
+							<p><b>Horde Breaker. </b>Once on each of your turns when you make a weapon attack, you can make another attack with the same weapon against a different creature that is within 5 feet of the original target and within range of your weapon.</p>
+						</text>
+					</hunter_sprey3>
+					<land_sstride8>
+						<level type="number">8</level>
+						<name type="string">Land's Stride</name>
+						<text type="formattedtext">
+							<p>Starting at 8th level, moving through nonmagical difficult terrain costs you no extra movement. You can also pass through nonmagical plants without being slowed by them and without taking damage from them if they have thorns, spines, or a similar hazard. In addition, you have advantage on saving throws against plants that are magically created or manipulated to impede movement, such those created by the <i>entangle </i>spell.</p>
+						</text>
+					</land_sstride8>
+					<multiattack11>
+						<level type="number">11</level>
+						<name type="string">Multiattack</name>
+						<specialization type="string">Hunter</specialization>
+						<text type="formattedtext">
+							<p>At 11th level, you gain one of the following features of your choice.</p>
+							<p><b>Volley. </b>You can use your action to make a ranged attack against any number of creatures within 10 feet of a point you can see within your weapon's range. You must have ammunition for each target, as normal, and you make a separate attack roll for each target.</p>
+							<p><b>Whirlwind Attack. </b>You can use your action to make a melee attack against any number of creatures within 5 feet of you, with a separate attack roll for each target.</p>
+						</text>
+					</multiattack11>
+					<naturalexplorer1>
+						<level type="number">1</level>
+						<name type="string">Natural Explorer</name>
+						<text type="formattedtext">
+							<p>You are particularly familiar with one type of natural environment and are adept at traveling and surviving in such regions. Choose one type of favored terrain: arctic, coast, desert, forest, grassland, mountain, swamp, or the Underdark. When you make an Intelligence or Wisdom check related to your favored terrain, your proficiency bonus is doubled if you are using a skill that you're proficient in.</p>
+							<p>While traveling for an hour or m ore in your favored terrain, you gain the following benefits:</p>
+							<list>
+								<li>Difficult terrain doesn't slow your group's travel.</li>
+								<li>Your group can't become lost except by magical means.</li>
+								<li>Even when you are engaged in another activity while traveling (such as foraging, navigating, or tracking), you remain alert to danger.</li>
+								<li>If you are traveling alone, you can move stealthily at a normal pace.</li>
+								<li>When you forage, you find twice as much food as you normally would.</li>
+								<li>While tracking other creatures, you also learn their exact number, their sizes, and how long ago they passed through the area.</li>
+							</list>
+							<p>You choose additional favored terrain types at 6th and 10th level.</p>
+						</text>
+					</naturalexplorer1>
+					<primevalawareness3>
+						<level type="number">3</level>
+						<name type="string">Primeval Awareness</name>
+						<text type="formattedtext">
+							<p>Beginning at 3rd level, you can use your action and expend one ranger spell slot to focus your awareness on the region around you. For 1 minute per level of the spell slot you expend, you can sense whether the following types of creatures are present within 1 mile of you (or within up to 6 miles if you are in your favored terrain): aberrations, celestials, dragons, elementals, fey, fiends, and undead. This feature doesn't reveal the creatures' location or number.</p>
+						</text>
+					</primevalawareness3>
+					<ranger_scompanion3>
+						<level type="number">3</level>
+						<name type="string">Ranger's Companion</name>
+						<specialization type="string">Beast Master</specialization>
+						<text type="formattedtext">
+							<p>At 3rd level, you gain a beast companion that accompanies you on your adventures and is trained to fight alongside you. Choose a beast that is no larger than Medium and that has a challenge rating of 1/4 or lower (appendix D presents statistics for the hawk, mastiff, and panther as examples). Add your proficiency bonus to the beast's AC, attack rolls, and damage rolls, as well as to any saving throws and skills it is proficient in. Its hit point maximum equals its normal maximum or four times your ranger level, whichever is higher. Like any creature, the beast can spend Hit Dice during a short rest.</p>
+							<p>The beast obeys your commands as best as it can. It takes its turn on your initiative, though it doesn't take an action unless you command it to. On your turn, you can verbally command the beast where to move (no action required by you). You can use your action to verbally command it to take the Attack, Dash, Disengage, or Help action. Once you have the Extra Attack feature, you can make one weapon attack yourself when you command the beast to take the Attack action. If you don't issue a command, the beast takes the Dodge action.</p>
+							<p>While traveling through your favored terrain with only the beast, you can move stealthily at a normal pace. If the beast dies, you can obtain another one by spending 8 hours magically bonding with another beast that isn't hostile to you, either the same type of beast as before or a different one.</p>
+							<p>If you are incapacitated or absent, your beast companion acts on its own, focusing on protecting you and itself. It never requires your command to use its reaction, such as when making an opportunity attack.</p>
+						</text>
+					</ranger_scompanion3>
+					<rangerarchetype3>
+						<level type="number">3</level>
+						<name type="string">Ranger Archetype</name>
+						<specializationchoice type="number">1</specializationchoice>
+						<text type="formattedtext">
+							<p>At 3rd level, you choose an archetype that you strive to emulate: Hunter or Beast Master, both detailed at the end of the class description. Your choice grants you features at 3rd level and again at 7th, 11th, and 15th level.</p>
+						</text>
+					</rangerarchetype3>
+					<sharespells15>
+						<level type="number">15</level>
+						<name type="string">Share Spells</name>
+						<specialization type="string">Beast Master</specialization>
+						<text type="formattedtext">
+							<p>Beginning at 15th level, when you cast a spell targeting yourself, you can also affect your beast companion with the spell if the beast is within 30 feet of you.</p>
+						</text>
+					</sharespells15>
+					<spellcasting2>
+						<level type="number">2</level>
+						<name type="string">Spellcasting</name>
+						<text type="formattedtext">
+							<p>By the time you reach 2nd level, you have learned to use the magical essence of nature to cast spells, much as a druid does. See chapter 10 for the general rules of spellcasting and chapter 11 for the ranger spell list.</p>
+							<linklist>
+								<link class="reference_colindex" recordname="reference.spelllists.ranger@DD PHB Deluxe">Ranger Spells</link>
+							</linklist>
+							<p><b>Spell Slots</b></p>
+							<p>The Ranger table shows how many spell slots you have to cast your ranger spells of 1st level and higher. To cast one of these spells, you must expend a slot of the spell's level or higher. You regain all expended spell slots when you finish a long rest.</p>
+							<p>For example, if you know the 1st-level spell animal friendship and have a 1st-level and a 2nd-level spell slot available, you can cast animal friendship using either slot.</p>
+							<p><b>Spells Known of 1st Level and Higher</b></p>
+							<p>You know two 1st-level spells of your choice from the ranger spell list.</p>
+							<p>The Spells Known column of the Ranger table shows when you learn more ranger spells of your choice. Each of these spells must be of a level for which you have spell slots. For instance, when you reach 5th level in this class, you can learn one new spell of 1st or 2nd level. Additionally, when you gain a level in this class, you can choose one of the ranger spells you know and replace it with another spell from the ranger spell list, which also must be of a level for which you have spell slots.</p>
+							<p><b>Spellcasting Ability</b></p>
+							<p>Wisdom is your spellcasting ability for your ranger spells, since your magic draws on your attunement to nature. You use your Wisdom whenever a spell refers to your spellcasting ability. In addition, you use your Wisdom modifier when setting the saving throw DC for a ranger spell you cast and when making an attack roll with one.</p>
+							<p><b>Spell save DC </b>= 8 + your proficiency bonus + your Wisdom modifier</p>
+							<p><b>Spell attack modifier </b>= your proficiency bonus + your Wisdom modifier</p>
+						</text>
+					</spellcasting2>
+					<superiorhunter_sdefense15>
+						<level type="number">15</level>
+						<name type="string">Superior Hunter's Defense</name>
+						<specialization type="string">Hunter</specialization>
+						<text type="formattedtext">
+							<p>At 15th level, you gain one of the following features of your choice.</p>
+							<p><b>Evasion. </b>You can nimbly dodge out of the way of certain area effects, such as a red dragon's fiery breath or a lightning bolt spell. When you are subjected to an effect that allows you to make a Dexterity saving throw to take only half damage, you instead take no damage if you succeed on the saving throw, and only half damage if you fail.</p>
+							<p><b>Stand Against the Tide. </b>When a hostile creature misses you with a melee attack, you can use your reaction to force that creature to repeat the same attack against another creature (other than itself) of your choice.</p>
+							<p><b>Uncanny Dodge. </b>When an attacker that you can see hits you with an attack, you can use your reaction to halve the attack's damage against you.</p>
+						</text>
+					</superiorhunter_sdefense15>
+					<vanish14>
+						<level type="number">14</level>
+						<name type="string">Vanish</name>
+						<text type="formattedtext">
+							<p>Starting at 14th level, you can use the Hide action as a bonus action on your turn. Also, you can't be tracked by nonmagical means, unless you choose to leave a trail.</p>
+						</text>
+					</vanish14>
+				</features>
+				<hp>
+					<hitdice>
+						<name type="string">Hit Dice</name>
+						<text type="string">1d10 per ranger level</text>
+					</hitdice>
+					<hitpointsat1stlevel>
+						<name type="string">Hit Points at 1st Level</name>
+						<text type="string">10 + your Constitution modifier</text>
+					</hitpointsat1stlevel>
+					<hitpointsathigherlevels>
+						<name type="string">Hit Points at Higher Levels</name>
+						<text type="string">1d10 (or 6) + your Constitution modifier per ranger level after 1st</text>
+					</hitpointsathigherlevels>
+				</hp>
+				<locked type="number">1</locked>
+				<multiclassfeatures>
+					<extraattack5>
+						<level type="number">5</level>
+						<name type="string">Extra Attack</name>
+						<text type="formattedtext">
+							<p>If you gain the Extra Attack class feature from more than one class, the features don't add together. You can't make more than two attacks with this feature unless it says you do (as the fighter's version of Extra Attack does). Similarly, the warlock's eldritch invocation Thirsting Blade doesn't give you additional attacks if you also have Extra Attack.</p>
+						</text>
+					</extraattack5>
+					<spellcasting2>
+						<level type="number">2</level>
+						<name type="string">Spellcasting</name>
+						<text type="formattedtext">
+							<p>Your capacity for spellcasting depends partly on your combined levels in all your spellcasting classes and partly on your individual levels in those classes. Once you have the Spellcasting feature from more than one class, use the rules below. If you multiclass but have the Spellcasting feature from only one class, you follow the rules as described in that class.</p>
+							<p><b>Spells Known and Prepared. </b>You determine what spells you know and can prepare for each class individually, as if you were a single-classed member of that class. If you are a ranger 4/wizard 3, for example, you know three 1st-level ranger spells based on your levels in the ranger class. As 3rd-level wizard, you know three wizard cantrips, and your spellbook contains ten wizard spells, two of which (the two you gained when you reached 3rd level as a wizard) can be 2nd-level spells. If your Intelligence is 16, you can prepare six wizard spells from your spellbook.</p>
+							<p>Each spell you know and prepare is associated with one of your classes, and you use the spellcasting ability of that class when you cast the spell. Similarly, a spellcasting focus, such as a holy symbol, can be used only for the spells from the class associated with that focus.</p>
+							<p><b>Spell Slots. </b>You determine your available spell slots by adding together all your levels in the bard, cleric, druid, sorcerer, and wizard classes, half your levels (rounded down) in the paladin and ranger classes, and a third of your fighter or rogue levels (rounded down) if you have the Eldritch Knight or the Arcane Trickster feature. Use this total to determine your spell slots by consulting the Multiclass Spellcaster table.</p>
+							<p>If you have more than one spellcasting class, this table might give you spell slots of a level that is higher than the spells you know or can prepare. You can use those slots, but only to cast your lower-level spells. If a lower level spell that you cast, like burning hands, has an enhanced effect when cast using a higher-level slot, you can use the enhanced effect, even though you don't have any spells of that higher level.</p>
+							<p>For example, if you are the aforementioned ranger 4/ wizard 3, you count as a 5th-level character when determining your spell slots: you have four 1st-level slots, three 2nd-level slots, and two 3rd-level slots. However, you don't know any 3rd-level spells, nor do you know any 2nd-level ranger spells. You can use the spell slots of those levels to cast the spells you do know-and potentially enhance their effects.</p>
+							<p><b>Pact Magic. </b>If you have both the Spellcasting class feature and the Pact Magic class feature from the warlock class, you can use the spell slots you gain from the Pact Magic feature to cast spells you know or have prepared from classes with the Spellcasting class feature, and you can use the spell slots you gain from the Spellcasting class feature to cast warlock spells you know.</p>
+							<p><b>MulticlassSpellcaster:</b></p>
+							<p><b>SpellSlotsperSpellLevel</b></p>
+							<table>
+								<tr>
+									<td><b>Lvl.</b></td>
+									<td><b>1st</b></td>
+									<td><b>2nd</b></td>
+									<td><b>3rd</b></td>
+									<td><b>4th</b></td>
+									<td><b>5th</b></td>
+									<td><b>6th</b></td>
+									<td><b>7th</b></td>
+									<td><b>8th</b></td>
+									<td><b>9th</b></td>
+								</tr>
+								<tr>
+									<td>1st</td>
+									<td>2</td>
+									<td>-</td>
+									<td>-</td>
+									<td>-</td>
+									<td>-</td>
+									<td>-</td>
+									<td>-</td>
+									<td>-</td>
+									<td>-</td>
+								</tr>
+								<tr>
+									<td>2nd</td>
+									<td>3</td>
+									<td>-</td>
+									<td>-</td>
+									<td>-</td>
+									<td>-</td>
+									<td>-</td>
+									<td>-</td>
+									<td>-</td>
+									<td>-</td>
+								</tr>
+								<tr>
+									<td>3rd</td>
+									<td>4</td>
+									<td>2-</td>
+									<td>-</td>
+									<td>-</td>
+									<td>-</td>
+									<td>-</td>
+									<td>-</td>
+									<td>-</td>
+								</tr>
+								<tr>
+									<td>4th</td>
+									<td>4</td>
+									<td>3</td>
+									<td>-</td>
+									<td>-</td>
+									<td>-</td>
+									<td>-</td>
+									<td>-</td>
+									<td>-</td>
+									<td>-</td>
+								</tr>
+								<tr>
+									<td>5th</td>
+									<td>4</td>
+									<td>3</td>
+									<td>2</td>
+									<td>-</td>
+									<td>-</td>
+									<td>-</td>
+									<td>-</td>
+									<td>-</td>
+									<td>-</td>
+								</tr>
+								<tr>
+									<td>6th</td>
+									<td>4</td>
+									<td>3</td>
+									<td>3</td>
+									<td>-</td>
+									<td>-</td>
+									<td>-</td>
+									<td>-</td>
+									<td>-</td>
+									<td>-</td>
+								</tr>
+								<tr>
+									<td>7th</td>
+									<td>4</td>
+									<td>3</td>
+									<td>3</td>
+									<td>1</td>
+									<td>-</td>
+									<td>-</td>
+									<td>-</td>
+									<td>-</td>
+									<td>-</td>
+								</tr>
+								<tr>
+									<td>8th</td>
+									<td>4</td>
+									<td>3</td>
+									<td>3</td>
+									<td>2</td>
+									<td>-</td>
+									<td>-</td>
+									<td>-</td>
+									<td>-</td>
+									<td>-</td>
+								</tr>
+								<tr>
+									<td>9th</td>
+									<td>4</td>
+									<td>3</td>
+									<td>3</td>
+									<td>3</td>
+									<td>1</td>
+									<td>-</td>
+									<td>-</td>
+									<td>-</td>
+									<td>-</td>
+								</tr>
+								<tr>
+									<td>10th</td>
+									<td>4</td>
+									<td>3</td>
+									<td>3</td>
+									<td>3</td>
+									<td>2</td>
+									<td>-</td>
+									<td>-</td>
+									<td>-</td>
+									<td>-</td>
+								</tr>
+								<tr>
+									<td>11th</td>
+									<td>4</td>
+									<td>3</td>
+									<td>3</td>
+									<td>3</td>
+									<td>2</td>
+									<td>1</td>
+									<td>-</td>
+									<td>-</td>
+									<td>-</td>
+								</tr>
+								<tr>
+									<td>12th</td>
+									<td>4</td>
+									<td>3</td>
+									<td>3</td>
+									<td>3</td>
+									<td>2</td>
+									<td>1</td>
+									<td>-</td>
+									<td>-</td>
+									<td>-</td>
+								</tr>
+								<tr>
+									<td>13th</td>
+									<td>4</td>
+									<td>3</td>
+									<td>3</td>
+									<td>3</td>
+									<td>2</td>
+									<td>1</td>
+									<td>1</td>
+									<td>-</td>
+									<td>-</td>
+								</tr>
+								<tr>
+									<td>14th</td>
+									<td>4</td>
+									<td>3</td>
+									<td>3</td>
+									<td>3</td>
+									<td>2</td>
+									<td>1</td>
+									<td>1</td>
+									<td>-</td>
+									<td>-</td>
+								</tr>
+								<tr>
+									<td>15th</td>
+									<td>4</td>
+									<td>3</td>
+									<td>3</td>
+									<td>3</td>
+									<td>2</td>
+									<td>1</td>
+									<td>1</td>
+									<td>1</td>
+									<td>-</td>
+								</tr>
+								<tr>
+									<td>16th</td>
+									<td>4</td>
+									<td>3</td>
+									<td>3</td>
+									<td>3</td>
+									<td>2</td>
+									<td>1</td>
+									<td>1</td>
+									<td>1</td>
+									<td>-</td>
+								</tr>
+								<tr>
+									<td>17th</td>
+									<td>4</td>
+									<td>3</td>
+									<td>3</td>
+									<td>3</td>
+									<td>2</td>
+									<td>1</td>
+									<td>1</td>
+									<td>1</td>
+									<td>1</td>
+								</tr>
+								<tr>
+									<td>18th</td>
+									<td>4</td>
+									<td>3</td>
+									<td>3</td>
+									<td>3</td>
+									<td>3</td>
+									<td>1</td>
+									<td>1</td>
+									<td>1</td>
+									<td>1</td>
+								</tr>
+								<tr>
+									<td>19th</td>
+									<td>4</td>
+									<td>3</td>
+									<td>3</td>
+									<td>3</td>
+									<td>3</td>
+									<td>2</td>
+									<td>1</td>
+									<td>1</td>
+									<td>1</td>
+								</tr>
+								<tr>
+									<td>20th</td>
+									<td>4</td>
+									<td>3</td>
+									<td>3</td>
+									<td>3</td>
+									<td>3</td>
+									<td>2</td>
+									<td>2</td>
+									<td>1</td>
+									<td>1</td>
+								</tr>
+							</table>
+						</text>
+					</spellcasting2>
+				</multiclassfeatures>
+				<multiclassproficiencies>
+					<armor>
+						<name type="string">Armor</name>
+						<text type="string">Light armor, medium armor, shields</text>
+					</armor>
+					<skills>
+						<name type="string">Skills</name>
+						<text type="string">Choose one from Animal Handling, Athletics, Insight, Investigation, Nature, Perception, Stealth, and Survival</text>
+					</skills>
+					<weapons>
+						<name type="string">Weapons</name>
+						<text type="string">Simple weapons, martial weapons</text>
+					</weapons>
+				</multiclassproficiencies>
+				<name type="string">Ranger</name>
+				<proficiencies>
+					<armor>
+						<name type="string">Armor</name>
+						<text type="string">Light armor, medium armor, shields</text>
+					</armor>
+					<savingthrows>
+						<name type="string">Saving Throws</name>
+						<text type="string">Strength, Dexterity</text>
+					</savingthrows>
+					<skills>
+						<name type="string">Skills</name>
+						<text type="string">Choose three from Animal Handling, Athletics, Insight, Investigation, Nature, Perception, Stealth, and Survival</text>
+					</skills>
+					<tools>
+						<name type="string">Tools</name>
+						<text type="string">None</text>
+					</tools>
+					<weapons>
+						<name type="string">Weapons</name>
+						<text type="string">Simple weapons, martial weapons</text>
+					</weapons>
+				</proficiencies>
+				<text type="formattedtext">
+					<h>Ranger</h>
+					<p>Rough and wild looking, a human stalks alone through the shadows of trees, hunting the orcs he knows are planning a raid on a nearby farm. Clutching a shortsword in each hand, he becomes a whirlwind of steel, cutting down one enemy after another.</p>
+					<p>After tumbling away from a cone of freezing air, an elf finds her feet and draws back her bow to loose an arrow at the white dragon. Shrugging off the wave of fear that emanates from the dragon like the cold of its breath, she sends one arrow after another to find the gaps between the dragon's thick scales.</p>
+					<p>Holding his hand high, a half-elf whistles to the hawk that circles high above him, calling the bird back to his side. Whispering instructions in Elvish, he points to the owlbear he's been tracking and sends the hawk to distract the creature while he readies his bow.</p>
+					<p>Far from the bustle of cities and towns, past the hedges that shelter the most distant farms from the terrors of the wild, amid the dense-packed trees of trackless forests and across wide and empty plains, rangers keep their unending watch.</p>
+					<h>Deadly Hunters</h>
+					<p>Warriors of the wilderness, rangers specialize in hunting the monsters that threaten the edges of civilization-humanoid raiders, rampaging beasts and monstrosities, terrible giants, and deadly dragons. They learn to track their quarry as a predator does, moving stealthily through the wilds and hiding themselves in brush and rubble. Rangers focus their combat training on techniques that are particularly useful against their specific favored foes.</p>
+					<p>Thanks to their familiarity with the wilds, rangers acquire the ability to cast spells that harness nature's power, much as a druid does. Their spells, like their combat abilities, emphasize speed, stealth, and the hunt. A ranger's talents and abilities are honed with deadly focus on the grim task of protecting the borderlands.</p>
+					<h>Independent Adventurers</h>
+					<p>Though a ranger might make a living as a hunter, a guide, or a tracker, a ranger's true calling is to defend the outskirts of civilization from the ravages of monsters and humanoid hordes that press in from the wild. In some places, rangers gather in secretive orders or join forces with druidic circles. Many rangers, though, are independent almost to a fault, knowing that, when a dragon or a band of orcs attacks, a ranger might be the first-and possibly the last-line of defense.</p>
+					<p>This fierce independence makes rangers well suited to adventuring, since they are accustomed to life far from the comforts of a dry bed and a hot bath. Faced with city-bred adventurers who grouse and whine about the hardships of the wild, rangers respond with some mixture of amusement, frustration, and compassion. But they quickly learn that other adventurers who can carry their own weight in a fight against civilization's foes are worth any extra burden. Coddled city folk might not know how to feed themselves or find fresh water in the wild, but they make up for it in other ways.</p>
+					<h>Creating a Ranger</h>
+					<p>As you create your ranger character, consider the nature of the training that gave you your particular capabilities. Did you train with a single mentor, wandering the wilds together until you mastered the ranger's ways? Did you leave your apprenticeship, or was your mentor slain-perhaps by the same kind of monster that became your favored enemy? Or perhaps you learned your skills as part of a band of rangers affiliated with a druidic circle, trained in mystic paths as well as wilderness lore. You might be self-taught, a recluse who learned combat skills, tracking, and even a magical connection to nature through the necessity of surviving in the wilds.</p>
+					<p>What's the source of your particular hatred of a certain kind of enemy? Did a monster kill someone you loved or destroy your home village? Or did you see too much of the destruction these monsters cause and commit yourself to reining in their depredations? Is your adventuring career a continuation of your work in protecting the borderlands, or a significant change? What made you join up with a band of adventurers? Do you find it challenging to teach new allies the ways of the wild, or do you welcome the relief from solitude that they offer?</p>
+					<h>Quick Build</h>
+					<p>You can make a ranger quickly by following these suggestions. First, make Dexterity your highest ability score, followed by Wisdom. (Some rangers who focus on two-weapon fighting make Strength higher than Dexterity.) Second, choose the outlander background.</p>
+					<linklist>
+						<link class="reference_background" recordname="reference.backgrounddata.outlander@DD PHB Deluxe"><b>Background: </b></link>Outlander</linklist>
+					<h>The Ranger</h>
+					<table>
+						<tr>
+							<td><b>Level</b></td>
+							<td><b>Proficiency Bonus</b></td>
+							<td colspan="3"><b>Features</b></td>
+						</tr>
+						<tr>
+							<td>1st</td>
+							<td>+2</td>
+							<td colspan="3">Favored Enemy, Natural Explorer</td>
+						</tr>
+						<tr>
+							<td>2nd</td>
+							<td>+2</td>
+							<td colspan="3">Fighting Style, Spellcasting</td>
+						</tr>
+						<tr>
+							<td>3rd</td>
+							<td>+2</td>
+							<td colspan="3">Ranger Archetype, Primeval Awareness</td>
+						</tr>
+						<tr>
+							<td>4th</td>
+							<td>+2</td>
+							<td colspan="3">Ability Score Improvement</td>
+						</tr>
+						<tr>
+							<td>5th</td>
+							<td>+3</td>
+							<td colspan="3">Extra Attack</td>
+						</tr>
+						<tr>
+							<td>6th</td>
+							<td>+3</td>
+							<td colspan="3">Favored Enemy and Natural Explorer improvements</td>
+						</tr>
+						<tr>
+							<td>7th</td>
+							<td>+3</td>
+							<td colspan="3">Ranger Archetype feature</td>
+						</tr>
+						<tr>
+							<td>8th</td>
+							<td>+3</td>
+							<td colspan="3">Ability Score Improvement, Land's Stride</td>
+						</tr>
+						<tr>
+							<td>9th</td>
+							<td>+4</td>
+							<td colspan="3">-</td>
+						</tr>
+						<tr>
+							<td>10th</td>
+							<td>+4</td>
+							<td colspan="3">Natural Explorer improvement, Hide in Plain Sight</td>
+						</tr>
+						<tr>
+							<td>11th</td>
+							<td>+4</td>
+							<td colspan="3">Ranger Archetype feature</td>
+						</tr>
+						<tr>
+							<td>12th</td>
+							<td>+4</td>
+							<td colspan="3">Ability Score Improvement</td>
+						</tr>
+						<tr>
+							<td>13th</td>
+							<td>+5</td>
+							<td colspan="3">-</td>
+						</tr>
+						<tr>
+							<td>14th</td>
+							<td>+5</td>
+							<td colspan="3">Favored Enemy improvement, Vanish</td>
+						</tr>
+						<tr>
+							<td>15th</td>
+							<td>+5</td>
+							<td colspan="3">Ranger Archetype feature</td>
+						</tr>
+						<tr>
+							<td>16th</td>
+							<td>+5</td>
+							<td colspan="3">Ability Score Improvement</td>
+						</tr>
+						<tr>
+							<td>17th</td>
+							<td>+6</td>
+							<td colspan="3">-</td>
+						</tr>
+						<tr>
+							<td>18th</td>
+							<td>+6</td>
+							<td colspan="3">Feral Senses</td>
+						</tr>
+						<tr>
+							<td>19th</td>
+							<td>+6</td>
+							<td colspan="3">Ability Score Improvement</td>
+						</tr>
+						<tr>
+							<td>20th</td>
+							<td>+6</td>
+							<td colspan="3">Foe Slayer</td>
+						</tr>
+					</table>
+					<p><b>Spell Slots per Spell Level</b></p>
+					<table>
+						<tr>
+							<td><b>Level</b></td>
+							<td><b>Spells Known</b></td>
+							<td><b>1st</b></td>
+							<td><b>2nd</b></td>
+							<td><b>3rd</b></td>
+							<td><b>4th</b></td>
+							<td><b>5th</b></td>
+						</tr>
+						<tr>
+							<td>1st</td>
+							<td>-</td>
+							<td>-</td>
+							<td>-</td>
+							<td>-</td>
+							<td>-</td>
+							<td>-</td>
+						</tr>
+						<tr>
+							<td>2nd</td>
+							<td>2</td>
+							<td>2</td>
+							<td>-</td>
+							<td>-</td>
+							<td>-</td>
+							<td>-</td>
+						</tr>
+						<tr>
+							<td>3rd</td>
+							<td>3</td>
+							<td>3</td>
+							<td>-</td>
+							<td>-</td>
+							<td>-</td>
+							<td>-</td>
+						</tr>
+						<tr>
+							<td>4th</td>
+							<td>3</td>
+							<td>3</td>
+							<td>-</td>
+							<td>-</td>
+							<td>-</td>
+							<td>-</td>
+						</tr>
+						<tr>
+							<td>5th</td>
+							<td>4</td>
+							<td>4</td>
+							<td>2</td>
+							<td>-</td>
+							<td>-</td>
+							<td>-</td>
+						</tr>
+						<tr>
+							<td>6th</td>
+							<td>4</td>
+							<td>4</td>
+							<td>2</td>
+							<td>-</td>
+							<td>-</td>
+							<td>-</td>
+						</tr>
+						<tr>
+							<td>7th</td>
+							<td>5</td>
+							<td>4</td>
+							<td>3</td>
+							<td>-</td>
+							<td>-</td>
+							<td>-</td>
+						</tr>
+						<tr>
+							<td>8th</td>
+							<td>5</td>
+							<td>4</td>
+							<td>3</td>
+							<td>-</td>
+							<td>-</td>
+							<td>-</td>
+						</tr>
+						<tr>
+							<td>9th</td>
+							<td>6</td>
+							<td>4</td>
+							<td>3</td>
+							<td>2</td>
+							<td>-</td>
+							<td>-</td>
+						</tr>
+						<tr>
+							<td>10th</td>
+							<td>6</td>
+							<td>4</td>
+							<td>3</td>
+							<td>2</td>
+							<td>-</td>
+							<td>-</td>
+						</tr>
+						<tr>
+							<td>11th</td>
+							<td>7</td>
+							<td>4</td>
+							<td>3</td>
+							<td>3</td>
+							<td>-</td>
+							<td>-</td>
+						</tr>
+						<tr>
+							<td>12th</td>
+							<td>7</td>
+							<td>4</td>
+							<td>3</td>
+							<td>3</td>
+							<td>-</td>
+							<td>-</td>
+						</tr>
+						<tr>
+							<td>13th</td>
+							<td>8</td>
+							<td>4</td>
+							<td>3</td>
+							<td>3</td>
+							<td>1</td>
+							<td>-</td>
+						</tr>
+						<tr>
+							<td>14th</td>
+							<td>8</td>
+							<td>4</td>
+							<td>3</td>
+							<td>3</td>
+							<td>1</td>
+							<td>-</td>
+						</tr>
+						<tr>
+							<td>15th</td>
+							<td>9</td>
+							<td>4</td>
+							<td>3</td>
+							<td>3</td>
+							<td>2</td>
+							<td>-</td>
+						</tr>
+						<tr>
+							<td>16th</td>
+							<td>9</td>
+							<td>4</td>
+							<td>3</td>
+							<td>3</td>
+							<td>2</td>
+							<td>-</td>
+						</tr>
+						<tr>
+							<td>17th</td>
+							<td>10</td>
+							<td>4</td>
+							<td>3</td>
+							<td>3</td>
+							<td>3</td>
+							<td>1</td>
+						</tr>
+						<tr>
+							<td>18th</td>
+							<td>10</td>
+							<td>4</td>
+							<td>3</td>
+							<td>3</td>
+							<td>3</td>
+							<td>1</td>
+						</tr>
+						<tr>
+							<td>19th</td>
+							<td>11</td>
+							<td>4</td>
+							<td>3</td>
+							<td>3</td>
+							<td>3</td>
+							<td>2</td>
+						</tr>
+						<tr>
+							<td>20th</td>
+							<td>11</td>
+							<td>4</td>
+							<td>3</td>
+							<td>3</td>
+							<td>3</td>
+							<td>2</td>
+						</tr>
+					</table>
+					<h>Class Features</h>
+					<p>As a ranger, you gain the following class features.</p>
+					<h>Hit Points</h>
+					<p><b>Hit Dice: </b>1d10 per ranger level</p>
+					<p><b>Hit Points At 1st Level: </b>10 + your Constitution modifier</p>
+					<p><b>Hit Points At Higher Levels: </b>1d10 (or 6) + your Constitution modifier per ranger level after 1st</p>
+					<h>Proficiencies</h>
+					<p><b>Armor: </b>Light armor, medium armor, shields</p>
+					<p><b>Weapons: </b>Simple weapons, martial weapons</p>
+					<p><b>Tools: </b>None</p>
+					<p><b>Saving Throws: </b>Strength, Dexterity</p>
+					<p><b>Skills: </b>Choose three from Animal Handling, Athletics, Insight, Investigation, Nature, Perception, Stealth, and Survival</p>
+					<h>Equipment</h>
+					<p>You start with the following equipment, in addition to the equipment granted by your background:</p>
+					<list>
+						<li>(a) scale mail or (b) leather armor</li>
+						<li>(a) two shortswords or (b) two simple melee weapons</li>
+						<li>(a) a dungeoneer's pack or (b) an explorer's pack</li>
+						<li>A longbow and a quiver of 20 arrows</li>
+					</list>
+					<linklist>
+						<link class="reference_weapontable" recordname="reference.equipmentlists.weapontable@DD PHB Deluxe"><b>Link: </b></link>Weapon List</linklist>
+						<link class="reference_armortable" recordname="reference.equipmentlists.armortable@DD PHB Deluxe"><b>Link: </b></link>Armor List
+						<link class="reference_adventuringgeartable" recordname="reference.equipmentlists.adventuringgeartable@DD PHB Deluxe"><b>Link: </b></link>Adventuring Gear
+						<link class="reference_adventuringgeartable" recordname="reference.equipmentlists.toolstable@DD PHB Deluxe"><b>Link: </b></link>Tools
+					<h>Features</h>
+					<linklist>
+						<link class="reference_classfeature" recordname="..features.favoredenemy1">Favored Enemy</link>
+						<link class="reference_classfeature" recordname="..features.naturalexplorer1">Natural Explorer</link>
+						<link class="reference_classfeature" recordname="..features.fightingstyle2">Fighting Style</link>
+						<link class="reference_classfeature" recordname="..features.spellcasting2">Spellcasting</link>
+						<link class="reference_classfeature" recordname="..features.rangerarchetype3">Ranger Archetype</link>
+						<link class="reference_classfeature" recordname="..features.primevalawareness3">Primeval Awareness</link>
+						<link class="reference_classfeature" recordname="..features.abilityscoreimprovement4">Ability Score Improvement</link>
+						<link class="reference_classfeature" recordname="..features.extraattack5">Extra Attack</link>
+						<link class="reference_classfeature" recordname="..features.land_sstride8">Land's Stride</link>
+						<link class="reference_classfeature" recordname="..features.hideinplainsight10">Hide in Plain Sight</link>
+						<link class="reference_classfeature" recordname="..features.vanish14">Vanish</link>
+						<link class="reference_classfeature" recordname="..features.feralsenses18">Feral Senses</link>
+						<link class="reference_classfeature" recordname="..features.foeslayer20">Foe Slayer</link>
+					</linklist>
+					<h>Ranger Archetypes</h>
+					<p>The ideal of the ranger has two classic expressions: the Hunter and the Beast Master.</p>
+					<linklist>
+						<link class="reference_classability" recordname="..abilities.hunter">Hunter</link>
+						<link class="reference_classability" recordname="..abilities.beastmaster">Beast Master</link>
+					</linklist>
+				</text>
+			</id-00013>

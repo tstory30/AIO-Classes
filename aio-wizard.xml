@@ -1,0 +1,1356 @@
+
+			<id-00017>
+				<abilities>
+					<schoolofabjuration>
+						<level type="number">1</level>
+						<name type="string">School of Abjuration</name>
+						<text type="formattedtext">
+							<p>The School of Abjuration emphasizes magic that blocks, banishes, or protects. Detractors of this school say that its tradition is about denial, negation rather than positive assertion. You understand, however, that ending harmful effects, protecting the weak, and banishing evil influences is anything but a philosophical void. It is a proud and respected vocation.</p>
+							<p>Called abjurers, members of this school are sought when baleful spirits require exorcism, when important locations must be guarded against magical spying, and when portals to other planes of existence must be closed.</p>
+							<h>Features</h>
+							<linklist>
+								<link class="reference_classfeature" recordname="....features.abjurationsavant2">Abjuration Savant</link>
+								<link class="reference_classfeature" recordname="....features.arcaneward2">Arcane Ward</link>
+								<link class="reference_classfeature" recordname="....features.projectedward6">Projected Ward</link>
+								<link class="reference_classfeature" recordname="....features.improvedabjuration10">Improved Abjuration</link>
+								<link class="reference_classfeature" recordname="....features.spellresistance14">Spell Resistance</link>
+							</linklist>
+						</text>
+					</schoolofabjuration>
+					<schoolofconjuration>
+						<level type="number">1</level>
+						<name type="string">School of Conjuration</name>
+						<text type="formattedtext">
+							<p>As a conjurer, you favor spells that produce objects and creatures out of thin air. You can conjure billowing clouds of killing fog or summon creatures from elsewhere to fight on your behalf. As your mastery grows, you learn spells of transportation and can teleport yourself across vast distances, even to other planes of existence, in an instant.</p>
+							<h>Features</h>
+							<linklist>
+								<link class="reference_classfeature" recordname="....features.conjurationsavant2">Conjuration Savant</link>
+								<link class="reference_classfeature" recordname="....features.minorconjuration2">Minor Conjuration</link>
+								<link class="reference_classfeature" recordname="....features.benigntransposition6">Benign Transposition</link>
+								<link class="reference_classfeature" recordname="....features.focusedconjuration10">Focused Conjuration</link>
+								<link class="reference_classfeature" recordname="....features.durablesummons14">Durable Summons</link>
+							</linklist>
+						</text>
+					</schoolofconjuration>
+					<schoolofdivination>
+						<level type="number">1</level>
+						<name type="string">School of Divination</name>
+						<text type="formattedtext">
+							<p>The counsel of a diviner is sought by royalty and commoners alike, for all seek a clearer understanding of the past, present, and future. As a diviner, you strive to part the veils of space, time, and consciousness so that you can see clearly. You work to master spells of discernment, remote viewing, supernatural knowledge, and foresight.</p>
+							<h>Features</h>
+							<linklist>
+								<link class="reference_classfeature" recordname="....features.divinationsavant2">Divination Savant</link>
+								<link class="reference_classfeature" recordname="....features.portent2">Portent</link>
+								<link class="reference_classfeature" recordname="....features.expertdivination6">Expert Divination</link>
+								<link class="reference_classfeature" recordname="....features.thethirdeye10">The Third Eye</link>
+								<link class="reference_classfeature" recordname="....features.greaterportent14">Greater Portent</link>
+							</linklist>
+						</text>
+					</schoolofdivination>
+					<schoolofenchantment>
+						<level type="number">1</level>
+						<name type="string">School of Enchantment</name>
+						<text type="formattedtext">
+							<p>As a member of the School of Enchantment, you have honed your ability to magically entrance and beguile other people and monsters. Some enchanters are peacemakers who bewitch the violent to lay down their arms and charm the cruel into showing mercy. Others are tyrants who magically bind the unwilling into their service. Most enchanters fall somewhere in between.</p>
+							<h>Features</h>
+							<linklist>
+								<link class="reference_classfeature" recordname="....features.enchantmentsavant2">Enchantment Savant</link>
+								<link class="reference_classfeature" recordname="....features.hypnoticgaze2">Hypnotic Gaze</link>
+								<link class="reference_classfeature" recordname="....features.instinctivecharm6">Instinctive Charm</link>
+								<link class="reference_classfeature" recordname="....features.splitenchantment10">Split Enchantment</link>
+								<link class="reference_classfeature" recordname="....features.altermemories14">Alter Memories</link>
+							</linklist>
+						</text>
+					</schoolofenchantment>
+					<schoolofevocation>
+						<level type="number">1</level>
+						<name type="string">School of Evocation</name>
+						<text type="formattedtext">
+							<p>You focus your study on magic that creates powerful elemental effects such as bitter cold, searing flame, rolling thunder, crackling lightning, and burning acid. Some evokers find employment in military forces, serving as artillery to blast enemy armies from afar. Others use their spectacular power to protect the weak, while some seek their own gain as bandits, adventurers, or aspiring tyrants.</p>
+							<h>Features</h>
+							<linklist>
+								<link class="reference_classfeature" recordname="....features.evocationsavant2">Evocation Savant</link>
+								<link class="reference_classfeature" recordname="....features.sculptspells2">Sculpt Spells</link>
+								<link class="reference_classfeature" recordname="....features.potentcantrip6">Potent Cantrip</link>
+								<link class="reference_classfeature" recordname="....features.empoweredevocation10">Empowered Evocation</link>
+								<link class="reference_classfeature" recordname="....features.overchannel14">Overchannel</link>
+							</linklist>
+						</text>
+					</schoolofevocation>
+					<schoolofillusion>
+						<level type="number">1</level>
+						<name type="string">School of Illusion</name>
+						<text type="formattedtext">
+							<p>You focus your studies on magic that dazzles the senses, befuddles the mind, and tricks even the wisest folk. Your magic is subtle, but the illusions crafted by your keen mind make the impossible seem real. Some illusionists-including many gnome wizards-are benign tricksters who use their spells to entertain. Others are more sinister masters of deception, using their illusions to frighten and fool others for their personal gain.</p>
+							<h>Features</h>
+							<linklist>
+								<link class="reference_classfeature" recordname="....features.illusionsavant2">Illusion Savant</link>
+								<link class="reference_classfeature" recordname="....features.improvedminorillusion2">Improved Minor Illusion</link>
+								<link class="reference_classfeature" recordname="....features.malleableillusions6">Malleable Illusions</link>
+								<link class="reference_classfeature" recordname="....features.illusoryself10">Illusory Self</link>
+								<link class="reference_classfeature" recordname="....features.illusoryreality14">Illusory Reality</link>
+							</linklist>
+						</text>
+					</schoolofillusion>
+					<schoolofnecromancy>
+						<level type="number">1</level>
+						<name type="string">School of Necromancy</name>
+						<text type="formattedtext">
+							<p>The School of Necromancy explores the cosmic forces of life, death, and undeath. As you focus your studies in this tradition, you learn to manipulate the energy that animates all living things. As you progress, you learn to sap the life force from a creature as your magic destroys its body, transforming that vital energy into magical power you can manipulate.</p>
+							<p>Most people see necromancers as menacing, or even villainous, due to the close association with death. Not all necromancers are evil, but the forces they manipulate are considered taboo by many societies.</p>
+							<h>Features</h>
+							<linklist>
+								<link class="reference_classfeature" recordname="....features.necromancysavant2">Necromancy Savant</link>
+								<link class="reference_classfeature" recordname="....features.grimharvest2">Grim Harvest</link>
+								<link class="reference_classfeature" recordname="....features.undeadthralls6">Undead Thralls</link>
+								<link class="reference_classfeature" recordname="....features.inuredtoundeath10">Inured to Undeath</link>
+								<link class="reference_classfeature" recordname="....features.commandundead14">Command Undead</link>
+							</linklist>
+						</text>
+					</schoolofnecromancy>
+					<schooloftransmutation>
+						<level type="number">1</level>
+						<name type="string">School of Transmutation</name>
+						<text type="formattedtext">
+							<p>You are a student of spells that modify energy and matter. To you, the world is not a fixed thing, but eminently mutable, and you delight in being an agent of change. You wield the raw stuff of creation and learn to alter both physical forms and mental qualities. Your magic gives you the tools to become a smith on reality's forge. Some transmuters are tinkerers and pranksters, turning people into toads and transforming copper into silver for fun and occasional profit. Others pursue their magical studies with deadly seriousness, seeking the power of the gods to make and destroy worlds.</p>
+							<h>Features</h>
+							<linklist>
+								<link class="reference_classfeature" recordname="....features.transmutationsavant2">Transmutation Savant</link>
+								<link class="reference_classfeature" recordname="....features.minoralchemy2">Minor Alchemy</link>
+								<link class="reference_classfeature" recordname="....features.transmuter_sstone6">Transmuter's Stone</link>
+								<link class="reference_classfeature" recordname="....features.shapechanger10">Shapechanger</link>
+								<link class="reference_classfeature" recordname="....features.mastertransmuter14">Master Transmuter</link>
+							</linklist>
+						</text>
+					</schooloftransmutation>
+				</abilities>
+				<equipment>
+					<standard>
+						<group type="string">standard</group>
+					</standard>
+				</equipment>
+				<features>
+					<abilityscoreimprovement12>
+						<level type="number">12</level>
+						<name type="string">Ability Score Improvement</name>
+						<text type="formattedtext">
+							<p>When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.</p>
+						</text>
+					</abilityscoreimprovement12>
+					<abilityscoreimprovement16>
+						<level type="number">16</level>
+						<name type="string">Ability Score Improvement</name>
+						<text type="formattedtext">
+							<p>When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.</p>
+						</text>
+					</abilityscoreimprovement16>
+					<abilityscoreimprovement19>
+						<level type="number">19</level>
+						<name type="string">Ability Score Improvement</name>
+						<text type="formattedtext">
+							<p>When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.</p>
+						</text>
+					</abilityscoreimprovement19>
+					<abilityscoreimprovement4>
+						<level type="number">4</level>
+						<name type="string">Ability Score Improvement</name>
+						<text type="formattedtext">
+							<p>When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.</p>
+						</text>
+					</abilityscoreimprovement4>
+					<abilityscoreimprovement8>
+						<level type="number">8</level>
+						<name type="string">Ability Score Improvement</name>
+						<text type="formattedtext">
+							<p>When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.</p>
+						</text>
+					</abilityscoreimprovement8>
+					<abjurationsavant2>
+						<level type="number">2</level>
+						<name type="string">Abjuration Savant</name>
+						<specialization type="string">School of Abjuration</specialization>
+						<text type="formattedtext">
+							<p>Beginning when you select this school at 2nd level, the gold and time you must spend to copy an abjuration spell into your spellbook is halved.</p>
+						</text>
+					</abjurationsavant2>
+					<altermemories14>
+						<level type="number">14</level>
+						<name type="string">Alter Memories</name>
+						<specialization type="string">School of Enchantment</specialization>
+						<text type="formattedtext">
+							<p>At 14th level, you gain the ability to make a creature unaware of your magical influence on it. When you cast an enchantment spell to charm one or more creatures, you can alter one creature's understanding so that it remains unaware of being charmed.</p>
+							<p>Additionally, once before the spell expires, you can use your action to try to make the chosen creature forget some of the time it spent charmed. The creature must succeed on an Intelligence saving throw against your wizard spell save DC or lose a number of hours of its memories equal to 1 + your Charisma modifier (minimum 1). You can make the creature forget less time, and the amount of time can't exceed the duration of your enchantment spell.</p>
+						</text>
+					</altermemories14>
+					<arcanerecovery1>
+						<level type="number">1</level>
+						<name type="string">Arcane Recovery</name>
+						<text type="formattedtext">
+							<p>You have learned to regain some of your magical energy by studying your spellbook. Once per day when you finish a short rest, you can choose expended spell slots to recover. The spell slots can have a combined level that is equal to or less than half your wizard level (rounded up), and none of the slots can be 6th level or higher.</p>
+							<p>For example, if you're a 4th-level wizard, you can recover up to two levels worth of spell slots. You can recover either a 2nd-level spell slot or two 1st-level spell slots.</p>
+						</text>
+					</arcanerecovery1>
+					<arcanetradition2>
+						<level type="number">2</level>
+						<name type="string">Arcane Tradition</name>
+						<specializationchoice type="number">1</specializationchoice>
+						<text type="formattedtext">
+							<p>When you reach 2nd level, you choose an arcane tradition, shaping your practice of magic through one of eight schools: Abjuration, Conjuration, Divination, Enchantment, Evocation, Illusion, Necromancy, or Transmutation, all detailed at the end of the class description.</p>
+							<p>Your choice grants you features at 2nd level and again at 6th, 10th, and 14th level.</p>
+						</text>
+					</arcanetradition2>
+					<arcaneward2>
+						<level type="number">2</level>
+						<name type="string">Arcane Ward</name>
+						<specialization type="string">School of Abjuration</specialization>
+						<text type="formattedtext">
+							<p>Starting at 2nd level, you can weave magic around yourself for protection. When you cast an abjuration spell of 1st level or higher, you can simultaneously use a strand of the spell's magic to create a magical ward on yourself that lasts until you finish a long rest. The ward has hit points equal to twice your wizard level + your Intelligence modifier. Whenever you take damage, the ward takes the damage instead. If this damage reduces the ward to 0 hit points, you take any remaining damage.</p>
+							<p>While the ward has 0 hit points, it can't absorb damage, but its magic remains. Whenever you cast an abjuration spell of 1st level or higher, the ward regains a number of hit points equal to twice the level of the spell. Once you create the ward, you can't create it again until you finish a long rest.</p>
+						</text>
+					</arcaneward2>
+					<benigntransposition6>
+						<level type="number">6</level>
+						<name type="string">Benign Transposition</name>
+						<specialization type="string">School of Conjuration</specialization>
+						<text type="formattedtext">
+							<p>Starting at 6th level, you can use your action to teleport up to 30 feet to an unoccupied space that you can see.</p>
+							<p>Alternatively, you can choose a space within range that is occupied by a Small or Medium creature. If that creature is willing, you both teleport, swapping places. Once you use this feature, you can't use it again until you finish a long rest or you cast a conjuration spell of 1st level or higher.</p>
+						</text>
+					</benigntransposition6>
+					<commandundead14>
+						<level type="number">14</level>
+						<name type="string">Command Undead</name>
+						<specialization type="string">School of Necromancy</specialization>
+						<text type="formattedtext">
+							<p>Starting at 14th level, you can use magic to bring undead under your control, even those created by other wizards. As an action, you can choose one undead that you can see within 60 feet of you. That creature must make a Charisma saving throw against your wizard spell save DC. If it succeeds, you can't use this feature on it again. If it fails, it becomes friendly to you and obeys your commands until you use this feature again. Intelligent undead are harder to control in this way. If the target has an Intelligence of 8 or higher, it has advantage on the saving throw. If it fails the saving throw and has an Intelligence of 12 or higher, it can repeat the saving throw at the end of every hour until it succeeds and breaks free.</p>
+						</text>
+					</commandundead14>
+					<conjurationsavant2>
+						<level type="number">2</level>
+						<name type="string">Conjuration Savant</name>
+						<specialization type="string">School of Conjuration</specialization>
+						<text type="formattedtext">
+							<p>Beginning when you select this school at 2nd level, the gold and time you must spend to copy a conjuration spell into your spellbook is halved.</p>
+						</text>
+					</conjurationsavant2>
+					<divinationsavant2>
+						<level type="number">2</level>
+						<name type="string">Divination Savant</name>
+						<specialization type="string">School of Divination</specialization>
+						<text type="formattedtext">
+							<p>Beginning when you select this school at 2nd level, the gold and time you must spend to copy a divination spell into your spellbook is halved.</p>
+						</text>
+					</divinationsavant2>
+					<durablesummons14>
+						<level type="number">14</level>
+						<name type="string">Durable Summons</name>
+						<specialization type="string">School of Conjuration</specialization>
+						<text type="formattedtext">
+							<p>Starting at 14th level, any creature that you summon or create with a conjuration spell has 30 temporary hit points.</p>
+						</text>
+					</durablesummons14>
+					<empoweredevocation10>
+						<level type="number">10</level>
+						<name type="string">Empowered Evocation</name>
+						<specialization type="string">School of Evocation</specialization>
+						<text type="formattedtext">
+							<p>Beginning at 10th level, you can add your Intelligence modifier to the damage roll of any wizard evocation spell you cast. The damage bonus applies to one damage roll of a spell, not multiple rolls.</p>
+						</text>
+					</empoweredevocation10>
+					<enchantmentsavant2>
+						<level type="number">2</level>
+						<name type="string">Enchantment Savant</name>
+						<specialization type="string">School of Enchantment</specialization>
+						<text type="formattedtext">
+							<p>Beginning when you select this school at 2nd level, the gold and time you must spend to copy an enchantment spell into your spellbook is halved.</p>
+						</text>
+					</enchantmentsavant2>
+					<evocationsavant2>
+						<level type="number">2</level>
+						<name type="string">Evocation Savant</name>
+						<specialization type="string">School of Evocation</specialization>
+						<text type="formattedtext">
+							<p>Beginning when you select this school at 2nd level, the gold and time you must spend to copy an evocation spell into your spellbook is halved.</p>
+						</text>
+					</evocationsavant2>
+					<expertdivination6>
+						<level type="number">6</level>
+						<name type="string">Expert Divination</name>
+						<specialization type="string">School of Divination</specialization>
+						<text type="formattedtext">
+							<p>Beginning at 6th level, casting divination spells comes so easily to you that it expends only a fraction of your spellcasting efforts. When you cast a divination spell of 2nd level or higher using a spell slot, you regain one expended spell slot. The slot you regain must be of a level lower than the spell you cast and can't be higher than 5th level.</p>
+						</text>
+					</expertdivination6>
+					<focusedconjuration10>
+						<level type="number">10</level>
+						<name type="string">Focused Conjuration</name>
+						<specialization type="string">School of Conjuration</specialization>
+						<text type="formattedtext">
+							<p>Beginning at 10th level, while you are concentrating on a conjuration spell, your concentration can't be broken as a result of taking damage.</p>
+						</text>
+					</focusedconjuration10>
+					<greaterportent14>
+						<level type="number">14</level>
+						<name type="string">Greater Portent</name>
+						<specialization type="string">School of Divination</specialization>
+						<text type="formattedtext">
+							<p>Starting at 14th level, the visions in your dreams intensify and paint a more accurate picture in your mind of what is to come. You roll three d20s for your Portent feature, rather than two.</p>
+						</text>
+					</greaterportent14>
+					<grimharvest2>
+						<level type="number">2</level>
+						<name type="string">Grim Harvest</name>
+						<specialization type="string">School of Necromancy</specialization>
+						<text type="formattedtext">
+							<p>At 2nd level, you gain the ability to reap life energy from creatures you kill with your spells. Once per turn when you kill one or more creatures with a spell of 1st level or higher, you regain hit points equal to twice the spell's level, or three times its level if the spell belongs to the School of Necromancy. You don't gain this benefit for killing constructs or undead.</p>
+						</text>
+					</grimharvest2>
+					<hypnoticgaze2>
+						<level type="number">2</level>
+						<name type="string">Hypnotic Gaze</name>
+						<specialization type="string">School of Enchantment</specialization>
+						<text type="formattedtext">
+							<p>Starting at 2nd level when you choose this school, your soft words and enchanting gaze can magically enthrall another creature. A s an action, choose one creature that you can see within 5 feet of you. If the target can see or hear you, it must succeed on a Wisdom saving throw against your wizard spell save DC or be charmed by you until the end of your next turn. The charmed creature's speed drops to 0, and the creature is incapacitated and visibly dazed.</p>
+							<p>On subsequent turns, you can use your action to maintain this effect, extending its duration until the end of your next turn. However, the effect ends if you move more than 5 feet away from the creature, if the creature can neither see nor hear you, or if the creature takes damage.</p>
+							<p>Once the effect ends, or if the creature succeeds on its initial saving throw against this effect, you can't use this feature on that creature again until you finish a long rest.</p>
+						</text>
+					</hypnoticgaze2>
+					<illusionsavant2>
+						<level type="number">2</level>
+						<name type="string">Illusion Savant</name>
+						<specialization type="string">School of Illusion</specialization>
+						<text type="formattedtext">
+							<p>Beginning when you select this school at 2nd level, the gold and time you must spend to copy an illusion spell into your spellbook is halved.</p>
+						</text>
+					</illusionsavant2>
+					<illusoryreality14>
+						<level type="number">14</level>
+						<name type="string">Illusory Reality</name>
+						<specialization type="string">School of Illusion</specialization>
+						<text type="formattedtext">
+							<p>By 14th level, you have learned the secret of weaving shadow magic into your illusions to give them a semi reality. When you cast an illusion spell of 1st level or higher, you can choose one inanimate, nonmagical object that is part of the illusion and make that object real. You can do this on your turn as a bonus action while the spell is ongoing. The object remains real for 1 minute. For example, you can create an illusion of a bridge over a chasm and then make it real long enough for your allies to cross.</p>
+							<p>The object can't deal damage or otherwise directly harm anyone.</p>
+						</text>
+					</illusoryreality14>
+					<illusoryself10>
+						<level type="number">10</level>
+						<name type="string">Illusory Self</name>
+						<specialization type="string">School of Illusion</specialization>
+						<text type="formattedtext">
+							<p>Beginning at 10th level, you can create an illusory duplicate of yourself as an instant, almost instinctual reaction to danger. When a creature makes an attack roll against you, you can use your reaction to interpose the illusory duplicate between the attacker and yourself. The attack automatically misses you, then the illusion dissipates.</p>
+							<p>Once you use this feature, you can't use it again until</p>
+							<p>you finish a short or long rest.</p>
+						</text>
+					</illusoryself10>
+					<improvedabjuration10>
+						<level type="number">10</level>
+						<name type="string">Improved Abjuration</name>
+						<specialization type="string">School of Abjuration</specialization>
+						<text type="formattedtext">
+							<p>Beginning at 10th level, when you cast an abjuration spell that requires you to make an ability check as a part of casting that spell (as in counterspell and dispel magic), you add your proficiency bonus to that ability check.</p>
+						</text>
+					</improvedabjuration10>
+					<improvedminorillusion2>
+						<level type="number">2</level>
+						<name type="string">Improved Minor Illusion</name>
+						<specialization type="string">School of Illusion</specialization>
+						<text type="formattedtext">
+							<p>When you choose this school at 2nd level, you learn the minor illusion cantrip. If you already know this cantrip, you learn a different wizard cantrip of your choice. The cantrip doesn't count against your number of cantrips known.</p>
+							<p>When you cast minor illusion, you can create both a sound and an image with a single casting of the spell.</p>
+						</text>
+					</improvedminorillusion2>
+					<instinctivecharm6>
+						<level type="number">6</level>
+						<name type="string">Instinctive Charm</name>
+						<specialization type="string">School of Enchantment</specialization>
+						<text type="formattedtext">
+							<p>Beginning at 6th level, when a creature you can see within 30 feet of you makes an attack roll against you, you can use your reaction to divert the attack, provided that another creature is within the attack's range. The attacker must make a Wisdom saving throw against your wizard spell save DC. On a failed save, the attacker must target the creature that is closest to it, not including you or itself. If multiple creatures are closest, the attacker chooses which one to target. On a successful save, you can't use this feature on the attacker again until you finish a long rest.</p>
+							<p>You must choose to use this feature before knowing whether the attack hits or misses. Creatures that can't be charmed are immune to this effect.</p>
+						</text>
+					</instinctivecharm6>
+					<inuredtoundeath10>
+						<level type="number">10</level>
+						<name type="string">Inured to Undeath</name>
+						<specialization type="string">School of Necromancy</specialization>
+						<text type="formattedtext">
+							<p>Beginning at 10th level, you have resistance to necrotic damage, and your hit point maximum can't be reduced. You have spent so much time dealing with undead and the forces that animate them that you have become inured to some of their worst effects.</p>
+						</text>
+					</inuredtoundeath10>
+					<malleableillusions6>
+						<level type="number">6</level>
+						<name type="string">Malleable Illusions</name>
+						<specialization type="string">School of Illusion</specialization>
+						<text type="formattedtext">
+							<p>Starting at 6th level, when you cast an illusion spell that has a duration of 1 minute or longer, you can use your action to change the nature of that illusion (using the spell's normal parameters for the illusion), provided that you can see the illusion.</p>
+						</text>
+					</malleableillusions6>
+					<mastertransmuter14>
+						<level type="number">14</level>
+						<name type="string">Master Transmuter</name>
+						<specialization type="string">School of Transmutation</specialization>
+						<text type="formattedtext">
+							<p>Starting at 14th level, you can use your action to consume the reserve of transmutation magic stored within your transmuter's stone in a single burst. When you do so, choose one of the following effects. Your transmuter's stone is destroyed and can't be remade until you finish a long rest.</p>
+							<p><b>Major Transformation. </b>You can transmute one nonmagical object-no larger than a 5-foot cube-into another nonmagical object of similar size and mass and of equal or lesser value. You must spend 10 minutes handling the object to transform it.</p>
+							<p><b>Panacea. </b>You remove all curses, diseases, and poisons affecting a creature that you touch with the transmuter's stone. The creature also regains all its hit points.</p>
+							<p><b>Restore Life. </b>You cast the raise dead spell on a creature you touch with the transmuter's stone, without expending a spell slot or needing to have the spell in your spellbook.</p>
+							<p><b>Restore Youth. </b>You touch the transmuter's stone to a willing creature, and that creature's apparent age is reduced by 3 d 10 years, to a minimum of 13 years. This effect doesn't extend the creature's lifespan.</p>
+						</text>
+					</mastertransmuter14>
+					<minoralchemy2>
+						<level type="number">2</level>
+						<name type="string">Minor Alchemy</name>
+						<specialization type="string">School of Transmutation</specialization>
+						<text type="formattedtext">
+							<p>Starting at 2nd level when you select this school, you can temporarily alter the physical properties of one nonmagical object, changing it from one substance into another. You perform a special alchemical procedure on one object composed entirely of wood, stone (but not a gemstone), iron, copper, or silver, transforming it into a different one of those materials. For each 10 minutes you spend performing the procedure, you can transform up to 1 cubic foot of material. After 1 hour, or until you lose your concentration (as if you were concentrating on a spell), the material reverts to its original substance.</p>
+						</text>
+					</minoralchemy2>
+					<minorconjuration2>
+						<level type="number">2</level>
+						<name type="string">Minor Conjuration</name>
+						<specialization type="string">School of Conjuration</specialization>
+						<text type="formattedtext">
+							<p>Starting at 2nd level when you select this school, you can use your action to conjure up an inanimate object in your hand or on the ground in an unoccupied space that you can see within 10 feet of you. This object can be no larger than 3 feet on a side and weigh no more than 10 pounds, and its form must be that of a nonmagical object that you have seen. The object is visibly magical, radiating dim light out to 5 feet.</p>
+							<p>The object disappears after 1 hour, when you use this feature again, or if it takes any damage. The conjured object also disappears if it deals any damage.</p>
+						</text>
+					</minorconjuration2>
+					<necromancysavant2>
+						<level type="number">2</level>
+						<name type="string">Necromancy Savant</name>
+						<specialization type="string">School of Necromancy</specialization>
+						<text type="formattedtext">
+							<p>Beginning when you select this school at 2nd level, the gold and time you must spend to copy a necromancy spell into your spellbook is halved.</p>
+						</text>
+					</necromancysavant2>
+					<overchannel14>
+						<level type="number">14</level>
+						<name type="string">Overchannel</name>
+						<specialization type="string">School of Evocation</specialization>
+						<text type="formattedtext">
+							<p>Starting at 14th level, you can increase the power of your simpler spells. When you cast a wizard spell of 5th level or lower that deals damage, you can deal maximum damage with that spell.</p>
+							<p>The first time you do so, you suffer no adverse effect. If you use this feature again before you finish a long rest, you take 2d12 necrotic damage for each level of the spell, immediately after you cast it. Each time you use this feature again before finishing a long rest, the necrotic damage per spell level increases by 1d12. This damage ignores resistance and immunity.</p>
+							<p>The feature doesn't benefit cantrips.</p>
+						</text>
+					</overchannel14>
+					<portent2>
+						<level type="number">2</level>
+						<name type="string">Portent</name>
+						<specialization type="string">School of Divination</specialization>
+						<text type="formattedtext">
+							<p>Starting at 2nd level when you choose this school, glimpses of the future begin to press in on your awareness. When you finish a long rest, roll two d20s and record the numbers rolled. You can replace any attack roll, saving throw, or ability check made by you or a creature that you can see with one of these foretelling rolls. You must choose to do so before the roll, and you can replace a roll in this way only once per turn. Each foretelling roll can be used only once. When you finish a long rest, you lose any unused foretelling rolls.</p>
+						</text>
+					</portent2>
+					<potentcantrip6>
+						<level type="number">6</level>
+						<name type="string">Potent Cantrip</name>
+						<specialization type="string">School of Evocation</specialization>
+						<text type="formattedtext">
+							<p>Starting at 6th level, your damaging cantrips affect even creatures that avoid the brunt of the effect. When a creature succeeds on a saving throw against your cantrip, the creature takes half the cantrip's damage (if any) but suffers no additional effect from the cantrip.</p>
+						</text>
+					</potentcantrip6>
+					<projectedward6>
+						<level type="number">6</level>
+						<name type="string">Projected Ward</name>
+						<specialization type="string">School of Abjuration</specialization>
+						<text type="formattedtext">
+							<p>Starting at 6th level, when a creature that you can see within 30 feet of you takes damage, you can use your reaction to cause your Arcane Ward to absorb that damage. If this damage reduces the ward to 0 hit points, the warded creature takes any remaining damage.</p>
+						</text>
+					</projectedward6>
+					<sculptspells2>
+						<level type="number">2</level>
+						<name type="string">Sculpt Spells</name>
+						<specialization type="string">School of Evocation</specialization>
+						<text type="formattedtext">
+							<p>Beginning at 2nd level, you can create pockets of relative safety within the effects of your evocation spells. When you cast an evocation spell that affects other creatures that you can see, you can choose a number of them equal to 1 + the spell's level. The chosen creatures automatically succeed on their saving throws against the spell, and they take no damage if they would normally take half damage on a successful save.</p>
+						</text>
+					</sculptspells2>
+					<shapechanger10>
+						<level type="number">10</level>
+						<name type="string">Shapechanger</name>
+						<specialization type="string">School of Transmutation</specialization>
+						<text type="formattedtext">
+							<p>At 10th level, you add the polymorph spell to your spellbook, if it is not there already. You can cast polymorph without expending a spell slot. When you do so, you can target only yourself and transform into a beast whose challenge rating is 1 or lower. Once you cast polymorph in this way, you can't do so again until you finish a short or long rest, though you can still cast it normally using an available spell slot.</p>
+						</text>
+					</shapechanger10>
+					<signaturespells20>
+						<level type="number">20</level>
+						<name type="string">Signature Spells</name>
+						<text type="formattedtext">
+							<p>When you reach 20th level, you gain mastery over two powerful spells and can cast them with little effort.</p>
+							<p>Choose two 3rd-level wizard spells in your spellbook as your signature spells. You always have these spells prepared, they don't count against the number of spells you have prepared, and you can cast each of them once at 3rd level without expending a spell slot. When you do so, you can't do so again until you finish a short or long rest.</p>
+							<p>If you want to cast either spell at a higher level, you must expend a spell slot as normal.</p>
+						</text>
+					</signaturespells20>
+					<spellcasting1>
+						<level type="number">1</level>
+						<name type="string">Spellcasting</name>
+						<text type="formattedtext">
+							<p>As a student of arcane magic, you have a spellbook containing spells that show the first glimmerings of your true power. See chapter 10 for the general rules of spellcasting and chapter 11 for the wizard spell list.</p>
+							<linklist>
+								<link class="reference_colindex" recordname="reference.spelllists.wizard@DD PHB Deluxe">Wizards Spells</link>
+							</linklist>
+							<p><b>Cantrips</b></p>
+							<p>At 1st level, you know three cantrips of your choice from the wizard spell list. You learn additional wizard cantrips of your choice at higher levels, as shown in the Cantrips Known column of the Wizard table.</p>
+							<p><b>Spellbook</b></p>
+							<p>At 1st level, you have a spellbook containing six 1st-level wizard spells of your choice.</p>
+							<p><b>Preparing and Casting Spells</b></p>
+							<p>The Wizard table shows how many spell slots you have to cast your wizard spells of 1st level and higher. To cast one of these spells, you must expend a slot of the spell's level or higher. You regain all expended spell slots when you finish a long rest.</p>
+							<p>You prepare the list of wizard spells that are available for you to cast. To do so, choose a number of wizard spells from your spellbook equal to your Intelligence modifier + your wizard level (minimum of one spell). The spells must be of a level for which you have spell slots.</p>
+							<p>For example, if you're a 3rd-level wizard, you have four 1st-level and two 2nd-level spell slots. With an Intelligence of 16, your list of prepared spells can include six spells of 1st or 2nd level, in any combination, chosen from your spellbook. If you prepare the 1st-level spell magic missile, you can cast it using a 1st-level or a 2nd-level slot. Casting the spell doesn't remove it from your list of prepared spells.</p>
+							<p>You can change your list of prepared spells when you finish a long rest. Preparing a new list of wizard spells requires time spent studying your spellbook and memorizing the incantations and gestures you must make to cast the spell: at least 1 minute per spell level for each spell on your list.</p>
+							<p><b>Spellcasting Ability</b></p>
+							<p>Intelligence is your spellcasting ability for your wizard spells, since you learn your spells through dedicated study and memorization. You use your Intelligence whenever a spell refers to your spellcasting ability.</p>
+							<p>In addition, you use your Intelligence modifier when setting the saving throw DC for a wizard spell you cast and when making an attack roll with one.</p>
+							<p><b>Spell save DC </b>= 8 + your proficiency bonus + your Intelligence modifier</p>
+							<p><b>Spell attack modifier </b>= your proficiency bonus + your Intelligence modifier</p>
+							<p><b>Ritual Casting</b></p>
+							<p>You can cast a wizard spell as a ritual if that spell has the ritual tag and you have the spell in your spellbook. You don't need to have the spell prepared.</p>
+							<p><b>Spellcasting Focus</b></p>
+							<p>You can use an arcane focus (found in chapter 5) as a spellcasting focus for your wizard spells.</p>
+							<p><b>Learning Spells of 1st Level and Higher</b></p>
+							<p>Each time you gain a wizard level, you can add two wizard spells of your choice to your spellbook. Each of these spells must be of a level for which you have spell slots, as shown on the Wizard table. On your adventures, you might find other spells that you can add to your spellbook (see the &#34;Your Spellbook&#34; sidebar).</p>
+							<h>Your Spellbook</h>
+							<p>The spells that you add to your spellbook as you gain levels reflect the arcane research you conduct on your own, as well as intellectual breakthroughs you have had about the nature of the multiverse. You might find other spells during your adventures. You could discover a spell recorded on a scroll in an evil wizard's chest, for example, or in a dusty tome in an ancient library.</p>
+							<p><b><i>Copying a Spell into the book. </i></b>When you find a wizard spell of 1st level or higher, you can add it to your spellbook if it is of a level for which you have spell slots and if you can spare the time to decipher and copy it. The spells copied into a spellbook must be of a spell level the wizard can prepare.</p>
+							<p>Copying a spell into your spellbook involves reproducing the basic form of the spell, then deciphering the unique system of notation used by the wizard who wrote it. You must practice the spell until you understand the sounds or gestures required, then transcribe it into your spellbook using your own notation.</p>
+							<p>For each level of the spell, the process takes 2 hours and costs 50gp. The cost represents material components you expend as you experiment with the spell to master it, as well as the fine inks you need to record it. Once you have spent this time and money, you can prepare the spell just like your other spells.</p>
+							<p><b><i>Replacing the Book. </i></b>You can copy a spell from your own spellbook into another book-for example, if you want to make a backup copy of your spellbook. This is just like copying a new spell into your spellbook, but faster and easier, since you understand your own notation and already know how to cast the spell. You need spend only 1 hour and 10 gp for each level of the copied spell. If you lose your spellbook, you can use the same procedure to transcribe the spells that you have prepared into a new spellbook. Filling out the remainder of your spellbook requires you to find new spells to do so, as normal. For this reason, many wizards keep backup spellbooks in a safe place.</p>
+							<p><b><i>The Book's Appearance </i></b>Your spellbook is a unique compilation of spells, with its own decorative flourishes and margin notes. It might be a plain, functional leather volume that you received as a gift from your master, a finely bound gilt-edged tome you found in an ancient library, or even a loose collection of notes scrounged together after you lost your previous spellbook in a mishap.</p>
+							<p>A spellbook doesn't contain cantrips.</p>
+						</text>
+					</spellcasting1>
+					<spellmastery18>
+						<level type="number">18</level>
+						<name type="string">Spell Mastery</name>
+						<text type="formattedtext">
+							<p>At 18th level, you have achieved such mastery over certain spells that you can cast them at will. Choose a 1st-level wizard spell and a 2nd-level wizard spell that are in your spellbook. You can cast those spells at their lowest level without expending a spell slot when you have them prepared. If you want to cast either spell at a higher level, you must expend a spell slot as normal.</p>
+							<p>By spending 8 hours in study, you can exchange one or both of the spells you chose for different spells of the same levels.</p>
+						</text>
+					</spellmastery18>
+					<spellresistance14>
+						<level type="number">14</level>
+						<name type="string">Spell Resistance</name>
+						<specialization type="string">School of Abjuration</specialization>
+						<text type="formattedtext">
+							<p>Starting at 14th level, you have advantage on saving throws against spells. Furthermore, you have resistance against the damage of spells.</p>
+						</text>
+					</spellresistance14>
+					<splitenchantment10>
+						<level type="number">10</level>
+						<name type="string">Split Enchantment</name>
+						<specialization type="string">School of Enchantment</specialization>
+						<text type="formattedtext">
+							<p>Starting at 10th level, when you cast an enchantment spell of 1st level or higher that targets only one creature, you can have it target a second creature.</p>
+						</text>
+					</splitenchantment10>
+					<thethirdeye10>
+						<level type="number">10</level>
+						<name type="string">The Third Eye</name>
+						<specialization type="string">School of Divination</specialization>
+						<text type="formattedtext">
+							<p>Starting at 10th level, you can use your action to increase your powers of perception. When you do so, choose one of the following benefits, which lasts until you are incapacitated or you take a short or long rest. You can't use the feature again until you finish a rest. Darkvision. You gain darkvision out to a range of 60 feet, as described in chapter 8.</p>
+							<p><b>Ethereal Sight. </b>You can see into the Ethereal Plane within 60 feet of you.</p>
+							<p>Greater Comprehension. You can read any language.</p>
+							<p><b>See Invisibility. </b>You can see invisible creatures and objects within 10 feet of you that are within line of sight.</p>
+						</text>
+					</thethirdeye10>
+					<transmutationsavant2>
+						<level type="number">2</level>
+						<name type="string">Transmutation Savant</name>
+						<specialization type="string">School of Transmutation</specialization>
+						<text type="formattedtext">
+							<p>Beginning when you select this school at 2nd level, the gold and time you must spend to copy a transmutation spell into your spellbook is halved.</p>
+						</text>
+					</transmutationsavant2>
+					<transmuter_sstone6>
+						<level type="number">6</level>
+						<name type="string">Transmuter's Stone</name>
+						<specialization type="string">School of Transmutation</specialization>
+						<text type="formattedtext">
+							<p>Starting at 6th level, you can spend 8 hours creating a transmuter's stone that stores transmutation magic. You can benefit from the stone yourself or give it to another creature. A creature gains a benefit of your choice as long as the stone is in the creature's possession. When you create the stone, choose the benefit from the following options:</p>
+							<list>
+								<li>Darkvision out to a range of 60 feet, as described in chapter 8</li>
+								<li>An increase to speed of 10 feet while the creature is unencumbered</li>
+								<li>Proficiency in Constitution saving throws</li>
+								<li>Resistance to acid, cold, fire, lightning, or thunder damage (your choice whenever you choose this benefit)</li>
+							</list>
+							<p>Each time you cast a transmutation spell of 1st level or higher, you can change the effect of your stone if the stone is on your person.</p>
+							<p>If you create a new transmuter's stone, the previous one ceases to function.</p>
+						</text>
+					</transmuter_sstone6>
+					<undeadthralls6>
+						<level type="number">6</level>
+						<name type="string">Undead Thralls</name>
+						<specialization type="string">School of Necromancy</specialization>
+						<text type="formattedtext">
+							<p>At 6th level, you add the animate dead spell to your spellbook if it is not there already. When you cast animate dead, you can target one additional corpse or pile of bones, creating another zombie or skeleton, as appropriate.</p>
+							<p>Whenever you create an undead using a necromancy spell, it has additional benefits:</p>
+							<list>
+								<li>The creature's hit point maximum is increased by an amount equal to your wizard level.</li>
+								<li>The creature adds your proficiency bonus to its weapon damage rolls.</li>
+							</list>
+						</text>
+					</undeadthralls6>
+				</features>
+				<hp>
+					<hitdice>
+						<name type="string">Hit Dice</name>
+						<text type="string">1d6 per wizard level</text>
+					</hitdice>
+					<hitpointsat1stlevel>
+						<name type="string">Hit Points at 1st Level</name>
+						<text type="string">6 + your Constitution modifier</text>
+					</hitpointsat1stlevel>
+					<hitpointsathigherlevels>
+						<name type="string">Hit Points at Higher Levels</name>
+						<text type="string">1d6 (or 4) + your Constitution modifier per wizard level after 1st</text>
+					</hitpointsathigherlevels>
+				</hp>
+				<locked type="number">1</locked>
+				<multiclassfeatures>
+					<spellcasting1>
+						<level type="number">1</level>
+						<name type="string">Spellcasting</name>
+						<text type="formattedtext">
+							<p>Your capacity for spellcasting depends partly on your combined levels in all your spellcasting classes and partly on your individual levels in those classes. Once you have the Spellcasting feature from more than one class, use the rules below. If you multiclass but have the Spellcasting feature from only one class, you follow the rules as described in that class.</p>
+							<p><b>Spells Known and Prepared. </b>You determine what spells you know and can prepare for each class individually, as if you were a single-classed member of that class. If you are a ranger 4/wizard 3, for example, you know three 1st-level ranger spells based on your levels in the ranger class. As 3rd-level wizard, you know three wizard cantrips, and your spellbook contains ten wizard spells, two of which (the two you gained when you reached 3rd level as a wizard) can be 2nd-level spells. If your Intelligence is 16, you can prepare six wizard spells from your spellbook.</p>
+							<p>Each spell you know and prepare is associated with one of your classes, and you use the spellcasting ability of that class when you cast the spell. Similarly, a spellcasting focus, such as a holy symbol, can be used only for the spells from the class associated with that focus.</p>
+							<p><b>Spell Slots. </b>You determine your available spell slots by adding together all your levels in the bard, cleric, druid, sorcerer, and wizard classes, half your levels (rounded down) in the paladin and ranger classes, and a third of your fighter or rogue levels (rounded down) if you have the Eldritch Knight or the Arcane Trickster feature. Use this total to determine your spell slots by consulting the Multiclass Spellcaster table.</p>
+							<p>If you have more than one spellcasting class, this table might give you spell slots of a level that is higher than the spells you know or can prepare. You can use those slots, but only to cast your lower-level spells. If a lower level spell that you cast, like burning hands, has an enhanced effect when cast using a higher-level slot, you can use the enhanced effect, even though you don't have any spells of that higher level.</p>
+							<p>For example, if you are the aforementioned ranger 4/ wizard 3, you count as a 5th-level character when determining your spell slots: you have four 1st-level slots, three 2nd-level slots, and two 3rd-level slots. However, you don't know any 3rd-level spells, nor do you know any 2nd-level ranger spells. You can use the spell slots of those levels to cast the spells you do know-and potentially enhance their effects.</p>
+							<p><b>Pact Magic. </b>If you have both the Spellcasting class feature and the Pact Magic class feature from the warlock class, you can use the spell slots you gain from the Pact Magic feature to cast spells you know or have prepared from classes with the Spellcasting class feature, and you can use the spell slots you gain from the Spellcasting class feature to cast warlock spells you know.</p>
+							<p><b>MulticlassSpellcaster:</b></p>
+							<p><b>SpellSlotsperSpellLevel</b></p>
+							<table>
+								<tr>
+									<td><b>Lvl.</b></td>
+									<td><b>1st</b></td>
+									<td><b>2nd</b></td>
+									<td><b>3rd</b></td>
+									<td><b>4th</b></td>
+									<td><b>5th</b></td>
+									<td><b>6th</b></td>
+									<td><b>7th</b></td>
+									<td><b>8th</b></td>
+									<td><b>9th</b></td>
+								</tr>
+								<tr>
+									<td>1st</td>
+									<td>2</td>
+									<td>-</td>
+									<td>-</td>
+									<td>-</td>
+									<td>-</td>
+									<td>-</td>
+									<td>-</td>
+									<td>-</td>
+									<td>-</td>
+								</tr>
+								<tr>
+									<td>2nd</td>
+									<td>3</td>
+									<td>-</td>
+									<td>-</td>
+									<td>-</td>
+									<td>-</td>
+									<td>-</td>
+									<td>-</td>
+									<td>-</td>
+									<td>-</td>
+								</tr>
+								<tr>
+									<td>3rd</td>
+									<td>4</td>
+									<td>2-</td>
+									<td>-</td>
+									<td>-</td>
+									<td>-</td>
+									<td>-</td>
+									<td>-</td>
+									<td>-</td>
+								</tr>
+								<tr>
+									<td>4th</td>
+									<td>4</td>
+									<td>3</td>
+									<td>-</td>
+									<td>-</td>
+									<td>-</td>
+									<td>-</td>
+									<td>-</td>
+									<td>-</td>
+									<td>-</td>
+								</tr>
+								<tr>
+									<td>5th</td>
+									<td>4</td>
+									<td>3</td>
+									<td>2</td>
+									<td>-</td>
+									<td>-</td>
+									<td>-</td>
+									<td>-</td>
+									<td>-</td>
+									<td>-</td>
+								</tr>
+								<tr>
+									<td>6th</td>
+									<td>4</td>
+									<td>3</td>
+									<td>3</td>
+									<td>-</td>
+									<td>-</td>
+									<td>-</td>
+									<td>-</td>
+									<td>-</td>
+									<td>-</td>
+								</tr>
+								<tr>
+									<td>7th</td>
+									<td>4</td>
+									<td>3</td>
+									<td>3</td>
+									<td>1</td>
+									<td>-</td>
+									<td>-</td>
+									<td>-</td>
+									<td>-</td>
+									<td>-</td>
+								</tr>
+								<tr>
+									<td>8th</td>
+									<td>4</td>
+									<td>3</td>
+									<td>3</td>
+									<td>2</td>
+									<td>-</td>
+									<td>-</td>
+									<td>-</td>
+									<td>-</td>
+									<td>-</td>
+								</tr>
+								<tr>
+									<td>9th</td>
+									<td>4</td>
+									<td>3</td>
+									<td>3</td>
+									<td>3</td>
+									<td>1</td>
+									<td>-</td>
+									<td>-</td>
+									<td>-</td>
+									<td>-</td>
+								</tr>
+								<tr>
+									<td>10th</td>
+									<td>4</td>
+									<td>3</td>
+									<td>3</td>
+									<td>3</td>
+									<td>2</td>
+									<td>-</td>
+									<td>-</td>
+									<td>-</td>
+									<td>-</td>
+								</tr>
+								<tr>
+									<td>11th</td>
+									<td>4</td>
+									<td>3</td>
+									<td>3</td>
+									<td>3</td>
+									<td>2</td>
+									<td>1</td>
+									<td>-</td>
+									<td>-</td>
+									<td>-</td>
+								</tr>
+								<tr>
+									<td>12th</td>
+									<td>4</td>
+									<td>3</td>
+									<td>3</td>
+									<td>3</td>
+									<td>2</td>
+									<td>1</td>
+									<td>-</td>
+									<td>-</td>
+									<td>-</td>
+								</tr>
+								<tr>
+									<td>13th</td>
+									<td>4</td>
+									<td>3</td>
+									<td>3</td>
+									<td>3</td>
+									<td>2</td>
+									<td>1</td>
+									<td>1</td>
+									<td>-</td>
+									<td>-</td>
+								</tr>
+								<tr>
+									<td>14th</td>
+									<td>4</td>
+									<td>3</td>
+									<td>3</td>
+									<td>3</td>
+									<td>2</td>
+									<td>1</td>
+									<td>1</td>
+									<td>-</td>
+									<td>-</td>
+								</tr>
+								<tr>
+									<td>15th</td>
+									<td>4</td>
+									<td>3</td>
+									<td>3</td>
+									<td>3</td>
+									<td>2</td>
+									<td>1</td>
+									<td>1</td>
+									<td>1</td>
+									<td>-</td>
+								</tr>
+								<tr>
+									<td>16th</td>
+									<td>4</td>
+									<td>3</td>
+									<td>3</td>
+									<td>3</td>
+									<td>2</td>
+									<td>1</td>
+									<td>1</td>
+									<td>1</td>
+									<td>-</td>
+								</tr>
+								<tr>
+									<td>17th</td>
+									<td>4</td>
+									<td>3</td>
+									<td>3</td>
+									<td>3</td>
+									<td>2</td>
+									<td>1</td>
+									<td>1</td>
+									<td>1</td>
+									<td>1</td>
+								</tr>
+								<tr>
+									<td>18th</td>
+									<td>4</td>
+									<td>3</td>
+									<td>3</td>
+									<td>3</td>
+									<td>3</td>
+									<td>1</td>
+									<td>1</td>
+									<td>1</td>
+									<td>1</td>
+								</tr>
+								<tr>
+									<td>19th</td>
+									<td>4</td>
+									<td>3</td>
+									<td>3</td>
+									<td>3</td>
+									<td>3</td>
+									<td>2</td>
+									<td>1</td>
+									<td>1</td>
+									<td>1</td>
+								</tr>
+								<tr>
+									<td>20th</td>
+									<td>4</td>
+									<td>3</td>
+									<td>3</td>
+									<td>3</td>
+									<td>3</td>
+									<td>2</td>
+									<td>2</td>
+									<td>1</td>
+									<td>1</td>
+								</tr>
+							</table>
+						</text>
+					</spellcasting1>
+				</multiclassfeatures>
+				<multiclassproficiencies>
+				</multiclassproficiencies>
+				<name type="string">Wizard</name>
+				<proficiencies>
+					<armor>
+						<name type="string">Armor</name>
+						<text type="string">None</text>
+					</armor>
+					<savingthrows>
+						<name type="string">Saving Throws</name>
+						<text type="string">Intelligence, Wisdom</text>
+					</savingthrows>
+					<skills>
+						<name type="string">Skills</name>
+						<text type="string">Choose two from Arcana, History, Insight, Investigation, Medicine, and Religion</text>
+					</skills>
+					<tools>
+						<name type="string">Tools</name>
+						<text type="string">None</text>
+					</tools>
+					<weapons>
+						<name type="string">Weapons</name>
+						<text type="string">Daggers, darts, slings, quarterstaffs, light crossbows</text>
+					</weapons>
+				</proficiencies>
+				<text type="formattedtext">
+					<h>Wizard</h>
+					<p>Clad in the silver robes that denote her station, an elf closes her eyes to shut out the distractions of the battlefield and begins her quiet chant. Fingers weaving in front of her, she completes her spell and launches a tiny bead of fire toward the enemy ranks, where it erupts into a conflagration that engulfs the soldiers.</p>
+					<p>Checking and rechecking his work, a human scribes an intricate magic circle in chalk on the bare stone floor, then sprinkles powdered iron along every line and graceful curve. When the circle is complete, he drones a long incantation. A hole opens in space inside the circle, bringing a whiff of brimstone from the otherworldly plane beyond.</p>
+					<p>Crouching on the floor in a dungeon intersection, a gnome tosses a handful of small bones inscribed with mystic symbols, muttering a few words of power over them. Closing his eyes to see the visions more clearly, he nods slowly, then opens his eyes and points down the passage to his left.</p>
+					<p>Wizards are supreme magic-users, defined and united as a class by the spells they cast. Drawing on the subtle weave of magic that permeates the cosmos, wizards cast spells of explosive fire, arcing lightning, subtle deception, and brute-force mind control. Their magic conjures monsters from other planes of existence, glimpses the future, or turns slain foes into zombies. Their mightiest spells change one substance into another, call meteors down from the sky, or open portals to other worlds.</p>
+					<h>Scholars of the Arcane</h>
+					<p>Wild and enigmatic, varied in form and function, the power of magic draws students who seek to master its mysteries. Some aspire to become like the gods, shaping reality itself. Though the casting of a typical spell requires merely the utterance of a few strange words, fleeting gestures, and sometimes a pinch or clump of exotic materials, these surface components barely hint at the expertise attained after years of apprenticeship and countless hours of study.</p>
+					<p>Wizards live and die by their spells. Everything else is secondary. They learn new spells as they experiment and grow in experience. They can also learn them from other wizards, from ancient tomes or inscriptions, and from ancient creatures (such as the fey) that are steeped in magic.</p>
+					<h>The Lure of Knowledge</h>
+					<p>Wizards' lives are seldom mundane. The closest a wizard is likely to come to an ordinary life is working as a sage or lecturer in a library or university, teaching others the secrets of the multiverse. Other wizards sell their services as diviners, serve in military forces, or pursue lives of crime or domination.</p>
+					<p>But the lure of knowledge and power calls even the most unadventurous wizards out of the safety of their libraries and laboratories and into crumbling ruins and lost cities. Most wizards believe that their counterparts in ancient civilizations knew secrets of magic that have been lost to the ages, and discovering those secrets could unlock the path to a power greater than any magic available in the present age.</p>
+					<h>Creating a Wizard</h>
+					<p>Creating a wizard character demands a backstory dominated by at least one extraordinary event. How did your character first come into contact with magic? How did you discover you had an aptitude for it? Do you have a natural talent, or did you simply study hard and practice incessantly? Did you encounter a magical creature or an ancient tome that taught you the basics of magic?</p>
+					<p>What drew you forth from your life of study? Did your first taste of magical knowledge leave you hungry for more? Have you received word of a secret repository of knowledge not yet plundered by any other wizard? Perhaps you're simply eager to put your newfound magical skills to the test in the face of danger.</p>
+					<h>Quick Build</h>
+					<p>You can make a wizard quickly by following these suggestions. First, Intelligence should be your highest ability score, followed by Constitution or Dexterity.</p>
+					<p>Second, choose the sage background. Third, choose the light, mage hand, and ray of frost cantrips, along with the following 1st-level spells for your spellbook: burning hands, charm person, mage armor, magic missile, shield, and sleep.</p>
+					<linklist>
+						<link class="reference_background" recordname="reference.backgrounddata.sage@DD PHB Deluxe"><b>Background: </b></link>Sage</linklist>
+					<h>The Wizard</h>
+					<table>
+						<tr>
+							<td><b>Level</b></td>
+							<td><b>Bonus</b></td>
+							<td colspan="3"><b>Features</b></td>
+							<td><b>Cantrips Known</b></td>
+						</tr>
+						<tr>
+							<td>1st</td>
+							<td>+2</td>
+							<td colspan="3">Spellcasting, Arcane Recovery</td>
+							<td>3</td>
+						</tr>
+						<tr>
+							<td>2nd</td>
+							<td>+2</td>
+							<td colspan="3">Arcane Tradition</td>
+							<td>3</td>
+						</tr>
+						<tr>
+							<td>3rd</td>
+							<td>+2</td>
+							<td colspan="3">-</td>
+							<td>3</td>
+						</tr>
+						<tr>
+							<td>4th</td>
+							<td>+2</td>
+							<td colspan="3">Ability Score Improvement</td>
+							<td>4</td>
+						</tr>
+						<tr>
+							<td>5th</td>
+							<td>+3</td>
+							<td colspan="3">-</td>
+							<td>4</td>
+						</tr>
+						<tr>
+							<td>6th</td>
+							<td>+3</td>
+							<td colspan="3">Arcane Tradition feature</td>
+							<td>4</td>
+						</tr>
+						<tr>
+							<td>7th</td>
+							<td>+3</td>
+							<td colspan="3">-</td>
+							<td>4</td>
+						</tr>
+						<tr>
+							<td>8th</td>
+							<td>+3</td>
+							<td colspan="3">Ability Score Improvement</td>
+							<td>4</td>
+						</tr>
+						<tr>
+							<td>9th</td>
+							<td>+4</td>
+							<td colspan="3">-</td>
+							<td>4</td>
+						</tr>
+						<tr>
+							<td>10th</td>
+							<td>+4</td>
+							<td colspan="3">Arcane Tradition feature</td>
+							<td>5</td>
+						</tr>
+						<tr>
+							<td>11th</td>
+							<td>+4</td>
+							<td colspan="3">-</td>
+							<td>5</td>
+						</tr>
+						<tr>
+							<td>12th</td>
+							<td>+4</td>
+							<td colspan="3">Ability Score Improvement</td>
+							<td>5</td>
+						</tr>
+						<tr>
+							<td>13th</td>
+							<td>+5</td>
+							<td colspan="3">-</td>
+							<td>5</td>
+						</tr>
+						<tr>
+							<td>14th</td>
+							<td>+5</td>
+							<td colspan="3">Arcane Tradition feature</td>
+							<td>5</td>
+						</tr>
+						<tr>
+							<td>15th</td>
+							<td>+5</td>
+							<td colspan="3">-</td>
+							<td>5</td>
+						</tr>
+						<tr>
+							<td>16th</td>
+							<td>+5</td>
+							<td colspan="3">Ability Score Improvement</td>
+							<td>5</td>
+						</tr>
+						<tr>
+							<td>17th</td>
+							<td>+6</td>
+							<td colspan="3">-</td>
+							<td>5</td>
+						</tr>
+						<tr>
+							<td>18th</td>
+							<td>+6</td>
+							<td colspan="3">Spell Mastery</td>
+							<td>5</td>
+						</tr>
+						<tr>
+							<td>19th</td>
+							<td>+6</td>
+							<td colspan="3">Ability Score Improvement</td>
+							<td>5</td>
+						</tr>
+						<tr>
+							<td>20th</td>
+							<td>+6</td>
+							<td colspan="3">Signature Spell</td>
+							<td>5</td>
+						</tr>
+					</table>
+					<h>Spell Slots per Spell Level</h>
+					<table>
+						<tr>
+							<td><b>Level</b></td>
+							<td><b>1st</b></td>
+							<td><b>2nd</b></td>
+							<td><b>3rd</b></td>
+							<td><b>4th</b></td>
+							<td><b>5th</b></td>
+							<td><b>6th</b></td>
+							<td><b>7th</b></td>
+							<td><b>8th</b></td>
+							<td><b>9th</b></td>
+						</tr>
+						<tr>
+							<td>1st</td>
+							<td>2</td>
+							<td>-</td>
+							<td>-</td>
+							<td>-</td>
+							<td>-</td>
+							<td>-</td>
+							<td>-</td>
+							<td>-</td>
+							<td>-</td>
+						</tr>
+						<tr>
+							<td>2nd</td>
+							<td>3</td>
+							<td>-</td>
+							<td>-</td>
+							<td>-</td>
+							<td>-</td>
+							<td>-</td>
+							<td>-</td>
+							<td>-</td>
+							<td>-</td>
+						</tr>
+						<tr>
+							<td>3rd</td>
+							<td>4</td>
+							<td>2</td>
+							<td>-</td>
+							<td>-</td>
+							<td>-</td>
+							<td>-</td>
+							<td>-</td>
+							<td>-</td>
+							<td>-</td>
+						</tr>
+						<tr>
+							<td>4th</td>
+							<td>4</td>
+							<td>3</td>
+							<td>-</td>
+							<td>-</td>
+							<td>-</td>
+							<td>-</td>
+							<td>-</td>
+							<td>-</td>
+							<td>-</td>
+						</tr>
+						<tr>
+							<td>5th</td>
+							<td>4</td>
+							<td>3</td>
+							<td>2</td>
+							<td>-</td>
+							<td>-</td>
+							<td>-</td>
+							<td>-</td>
+							<td>-</td>
+							<td>-</td>
+						</tr>
+						<tr>
+							<td>6th</td>
+							<td>4</td>
+							<td>3</td>
+							<td>3</td>
+							<td>-</td>
+							<td>-</td>
+							<td>-</td>
+							<td>-</td>
+							<td>-</td>
+							<td>-</td>
+						</tr>
+						<tr>
+							<td>7th</td>
+							<td>4</td>
+							<td>3</td>
+							<td>3</td>
+							<td>1</td>
+							<td>-</td>
+							<td>-</td>
+							<td>-</td>
+							<td>-</td>
+							<td>-</td>
+						</tr>
+						<tr>
+							<td>8th</td>
+							<td>4</td>
+							<td>3</td>
+							<td>3</td>
+							<td>2</td>
+							<td>-</td>
+							<td>-</td>
+							<td>-</td>
+							<td>-</td>
+							<td>-</td>
+						</tr>
+						<tr>
+							<td>9th</td>
+							<td>4</td>
+							<td>3</td>
+							<td>3</td>
+							<td>3</td>
+							<td>1</td>
+							<td>-</td>
+							<td>-</td>
+							<td>-</td>
+							<td>-</td>
+						</tr>
+						<tr>
+							<td>10th</td>
+							<td>4</td>
+							<td>3</td>
+							<td>3</td>
+							<td>3</td>
+							<td>2</td>
+							<td>-</td>
+							<td>-</td>
+							<td>-</td>
+							<td>-</td>
+						</tr>
+						<tr>
+							<td>11th</td>
+							<td>4</td>
+							<td>3</td>
+							<td>3</td>
+							<td>3</td>
+							<td>2</td>
+							<td>1</td>
+							<td>-</td>
+							<td>-</td>
+							<td>-</td>
+						</tr>
+						<tr>
+							<td>12th</td>
+							<td>4</td>
+							<td>3</td>
+							<td>3</td>
+							<td>3</td>
+							<td>2</td>
+							<td>1</td>
+							<td>-</td>
+							<td>-</td>
+							<td>-</td>
+						</tr>
+						<tr>
+							<td>13th</td>
+							<td>4</td>
+							<td>3</td>
+							<td>3</td>
+							<td>3</td>
+							<td>2</td>
+							<td>1</td>
+							<td>1</td>
+							<td>-</td>
+							<td>-</td>
+						</tr>
+						<tr>
+							<td>14th</td>
+							<td>4</td>
+							<td>3</td>
+							<td>3</td>
+							<td>3</td>
+							<td>2</td>
+							<td>1</td>
+							<td>1</td>
+							<td>-</td>
+							<td>-</td>
+						</tr>
+						<tr>
+							<td>15th</td>
+							<td>4</td>
+							<td>3</td>
+							<td>3</td>
+							<td>3</td>
+							<td>2</td>
+							<td>1</td>
+							<td>1</td>
+							<td>1</td>
+							<td>-</td>
+						</tr>
+						<tr>
+							<td>16th</td>
+							<td>4</td>
+							<td>3</td>
+							<td>3</td>
+							<td>3</td>
+							<td>2</td>
+							<td>1</td>
+							<td>1</td>
+							<td>1</td>
+							<td>-</td>
+						</tr>
+						<tr>
+							<td>17th</td>
+							<td>4</td>
+							<td>3</td>
+							<td>3</td>
+							<td>3</td>
+							<td>2</td>
+							<td>1</td>
+							<td>1</td>
+							<td>1</td>
+							<td>1</td>
+						</tr>
+						<tr>
+							<td>18th</td>
+							<td>4</td>
+							<td>3</td>
+							<td>3</td>
+							<td>3</td>
+							<td>3</td>
+							<td>1</td>
+							<td>1</td>
+							<td>1</td>
+							<td>1</td>
+						</tr>
+						<tr>
+							<td>19th</td>
+							<td>4</td>
+							<td>3</td>
+							<td>3</td>
+							<td>3</td>
+							<td>3</td>
+							<td>2</td>
+							<td>1</td>
+							<td>1</td>
+							<td>1</td>
+						</tr>
+						<tr>
+							<td>20th</td>
+							<td>4</td>
+							<td>3</td>
+							<td>3</td>
+							<td>3</td>
+							<td>3</td>
+							<td>2</td>
+							<td>2</td>
+							<td>1</td>
+							<td>1</td>
+						</tr>
+					</table>
+					<h>Class Features</h>
+					<p>As a wizard, you gain the following class features.</p>
+					<h>Hit Points</h>
+					<p><b>Hit Dice: </b>1d6 per wizard level</p>
+					<p><b>Hit Points At 1st Level: </b>6 + your Constitution modifier</p>
+					<p><b>Hit Points At Higher Levels: </b>1d6 (or 4) + your Constitution modifier per wizard level after 1st</p>
+					<h>Proficiencies</h>
+					<p><b>Armor: </b>None</p>
+					<p><b>Weapons: </b>Daggers, darts, slings, quarterstaffs, light crossbows</p>
+					<p><b>Tools: </b>None</p>
+					<p><b>Saving Throws: </b>Intelligence, Wisdom</p>
+					<p><b>Skills: </b>Choose two from Arcana, History, Insight, Investigation, Medicine, and Religion</p>
+					<h>Equipment</h>
+					<p>You start with the following equipment, in addition to the equipment granted by your background:</p>
+					<list>
+						<li>(a) a quarterstaff or (b) a dagger</li>
+						<li>(a) a component pouch or (b) an arcane focus</li>
+						<li>(a) a scholar's pack or (b) an explorer's pack</li>
+						<li>A spellbook</li>
+					</list>
+					<linklist>
+						<link class="reference_weapontable" recordname="reference.equipmentlists.weapontable@DD PHB Deluxe"><b>Link: </b></link>Weapon List</linklist>
+						<link class="reference_armortable" recordname="reference.equipmentlists.armortable@DD PHB Deluxe"><b>Link: </b></link>Armor List
+						<link class="reference_adventuringgeartable" recordname="reference.equipmentlists.adventuringgeartable@DD PHB Deluxe"><b>Link: </b></link>Adventuring Gear
+						<link class="reference_adventuringgeartable" recordname="reference.equipmentlists.toolstable@DD PHB Deluxe"><b>Link: </b></link>Tools
+					<h>Features</h>
+					<linklist>
+						<link class="reference_classfeature" recordname="..features.spellcasting1">Spellcasting</link>
+						<link class="reference_classfeature" recordname="..features.arcanerecovery1">Arcane Recovery</link>
+						<link class="reference_classfeature" recordname="..features.arcanetradition2">Arcane Tradition</link>
+						<link class="reference_classfeature" recordname="..features.abilityscoreimprovement4">Ability Score Improvement</link>
+						<link class="reference_classfeature" recordname="..features.spellmastery18">Spell Mastery</link>
+						<link class="reference_classfeature" recordname="..features.signaturespells20">Signature Spells</link>
+					</linklist>
+					<h>Arcane Traditions</h>
+					<p>The study of wizardry is ancient, stretching back to the earliest mortal discoveries of magic. It is firmly established in the worlds of D&#38;amp;D, with various traditions dedicated to its complex study.</p>
+					<p>The most common arcane traditions in the multiverse revolve around the schools of magic. Wizards through the ages have cataloged thousands of spells, grouping them into eight categories called schools, as described in chapter 10. In some places, these traditions are literally schools. Elsewhere, they are more like academic departments, with rival faculties competing for students and funding. Even wizards who train apprentices in the solitude of their own towers use the division of magic into schools as a learning device, since the spells of each school require mastery of different techniques.</p>
+					<linklist>
+						<link class="reference_classability" recordname="..abilities.schoolofabjuration">School of Abjuration</link>
+						<link class="reference_classability" recordname="..abilities.schoolofconjuration">School of Conjuration</link>
+						<link class="reference_classability" recordname="..abilities.schoolofdivination">School of Divination</link>
+						<link class="reference_classability" recordname="..abilities.schoolofenchantment">School of Enchantment</link>
+						<link class="reference_classability" recordname="..abilities.schoolofevocation">School of Evocation</link>
+						<link class="reference_classability" recordname="..abilities.schoolofillusion">School of Illusion</link>
+						<link class="reference_classability" recordname="..abilities.schoolofnecromancy">School of Necromancy</link>
+						<link class="reference_classability" recordname="..abilities.schooloftransmutation">School of Transmutation</link>
+					</linklist>
+				</text>
+			</id-00017>

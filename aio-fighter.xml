@@ -1,0 +1,1345 @@
+
+			<id-00010>
+				<abilities>
+					<battlemaster>
+						<level type="number">1</level>
+						<name type="string">Battle Master</name>
+						<text type="formattedtext">
+							<p>Those who emulate the archetypal Battle Master employ martial techniques passed down through generations. To a Battle Master, combat is an academic field, sometimes including subjects beyond battle such as weapon smithing and calligraphy. Not every fighter absorbs the lessons of history, theory, and artistry that are reflected in the Battle Master archetype, but those who do are well-rounded fighters of great skill and knowledge.</p>
+							<h>Features</h>
+							<linklist>
+								<link class="reference_classfeature" recordname="....features.combatsuperiority3">Combat Superiority</link>
+								<link class="reference_classfeature" recordname="....features.studentofwar3">Student of War</link>
+								<link class="reference_classfeature" recordname="....features.knowyourenemy7">Know Your Enemy</link>
+								<link class="reference_classfeature" recordname="....features.improvedcombatsuperiority10">Improved Combat Superiority</link>
+								<link class="reference_classfeature" recordname="....features.relentless15">Relentless</link>
+							</linklist>
+						</text>
+					</battlemaster>
+					<champion>
+						<level type="number">1</level>
+						<name type="string">Champion</name>
+						<text type="formattedtext">
+							<p>The archetypal Champion focuses on the development of raw physical power honed to deadly perfection. Those who model themselves on this archetype combine rigorous training with physical excellence to deal devastating blows.</p>
+							<h>Features</h>
+							<linklist>
+								<link class="reference_classfeature" recordname="....features.improvedcritical3">Improved Critical</link>
+								<link class="reference_classfeature" recordname="....features.remarkableathlete7">Remarkable Athlete</link>
+								<link class="reference_classfeature" recordname="....features.additionalfightingstyle10">Additional Fighting Style</link>
+								<link class="reference_classfeature" recordname="....features.superiorcritical15">Superior Critical</link>
+								<link class="reference_classfeature" recordname="....features.survivor18">Survivor</link>
+							</linklist>
+						</text>
+					</champion>
+					<eldritchknight>
+						<level type="number">1</level>
+						<name type="string">Eldritch Knight</name>
+						<text type="formattedtext">
+							<p>The archetypal Eldritch Knight combines the martial mastery common to all fighters with a careful study of magic. Eldritch Knights use magical techniques similar to those practiced by wizards. They focus their study on two of the eight schools of magic: abjuration and evocation. Abjuration spells grant an Eldritch Knight additional protection in battle, and evocation spells deal damage to many foes at once, extending the fighter's reach in combat. These knights learn a comparatively small number of spells, committing them to memory instead of keeping them in a spellbook.</p>
+							<h>Features</h>
+							<linklist>
+								<link class="reference_classfeature" recordname="....features.spellcasting3">Spellcasting</link>
+								<link class="reference_classfeature" recordname="....features.weaponbond3">Weapon Bond</link>
+								<link class="reference_classfeature" recordname="....features.warmagic7">War Magic</link>
+								<link class="reference_classfeature" recordname="....features.eldritchstrike10">Eldritch Strike</link>
+								<link class="reference_classfeature" recordname="....features.arcanecharge15">Arcane Charge</link>
+								<link class="reference_classfeature" recordname="....features.improvedwarmagic18">Improved War Magic</link>
+							</linklist>
+						</text>
+					</eldritchknight>
+				</abilities>
+				<equipment>
+					<standard>
+						<group type="string">standard</group>
+					</standard>
+				</equipment>
+				<features>
+					<abilityscoreimprovement12>
+						<level type="number">12</level>
+						<name type="string">Ability Score Improvement</name>
+						<text type="formattedtext">
+							<p>When you reach 4th level, and again at 6th, 8th, 12th, 14th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.</p>
+						</text>
+					</abilityscoreimprovement12>
+					<abilityscoreimprovement14>
+						<level type="number">14</level>
+						<name type="string">Ability Score Improvement</name>
+						<text type="formattedtext">
+							<p>When you reach 4th level, and again at 6th, 8th, 12th, 14th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.</p>
+						</text>
+					</abilityscoreimprovement14>
+					<abilityscoreimprovement16>
+						<level type="number">16</level>
+						<name type="string">Ability Score Improvement</name>
+						<text type="formattedtext">
+							<p>When you reach 4th level, and again at 6th, 8th, 12th, 14th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.</p>
+						</text>
+					</abilityscoreimprovement16>
+					<abilityscoreimprovement19>
+						<level type="number">19</level>
+						<name type="string">Ability Score Improvement</name>
+						<text type="formattedtext">
+							<p>When you reach 4th level, and again at 6th, 8th, 12th, 14th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.</p>
+						</text>
+					</abilityscoreimprovement19>
+					<abilityscoreimprovement4>
+						<level type="number">4</level>
+						<name type="string">Ability Score Improvement</name>
+						<text type="formattedtext">
+							<p>When you reach 4th level, and again at 6th, 8th, 12th, 14th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.</p>
+						</text>
+					</abilityscoreimprovement4>
+					<abilityscoreimprovement6>
+						<level type="number">6</level>
+						<name type="string">Ability Score Improvement</name>
+						<text type="formattedtext">
+							<p>When you reach 4th level, and again at 6th, 8th, 12th, 14th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.</p>
+						</text>
+					</abilityscoreimprovement6>
+					<abilityscoreimprovement8>
+						<level type="number">8</level>
+						<name type="string">Ability Score Improvement</name>
+						<text type="formattedtext">
+							<p>When you reach 4th level, and again at 6th, 8th, 12th, 14th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.</p>
+						</text>
+					</abilityscoreimprovement8>
+					<actionsurge2>
+						<level type="number">2</level>
+						<name type="string">Action Surge</name>
+						<text type="formattedtext">
+							<p>Starting at 2nd level, you can push yourself beyond your normal limits for a moment. On your turn, you can take one additional action on top of your regular action and a possible bonus action.</p>
+							<p>Once you use this feature, you must finish a short or long rest before you can use it again. Starting at 17th level, you can use it twice before a rest, but only once on the same turn.</p>
+						</text>
+					</actionsurge2>
+					<additionalfightingstyle10>
+						<level type="number">10</level>
+						<name type="string">Additional Fighting Style</name>
+						<specialization type="string">Champion</specialization>
+						<text type="formattedtext">
+							<p>At 10th level, you can choose a second option from the Fighting Style class feature.</p>
+						</text>
+					</additionalfightingstyle10>
+					<arcanecharge15>
+						<level type="number">15</level>
+						<name type="string">Arcane Charge</name>
+						<specialization type="string">Eldritch Knight</specialization>
+						<text type="formattedtext">
+							<p>At 15th level, you gain the ability to teleport up to 30 feet to an unoccupied space you can see when you use your Action Surge. You can teleport before or after the additional action.</p>
+						</text>
+					</arcanecharge15>
+					<combatsuperiority10>
+						<level type="number">10</level>
+						<name type="string">Combat Superiority</name>
+						<specialization type="string">Battle Master</specialization>
+						<text type="formattedtext">
+							<p>When you choose this archetype at 3rd level, you learn maneuvers that are fueled by special dice called superiority dice.</p>
+							<p><b>Maneuvers. </b>You learn three maneuvers of your choice, which are detailed under &#34;Maneuvers&#34; below. Many maneuvers enhance an attack in some way. You can use only one maneuver per attack.</p>
+							<p>You learn two additional maneuvers of your choice at 7th, 10th, and 15th level. Each time you learn new maneuvers, you can also replace one maneuver you know with a different one.</p>
+							<p><b>Maneuvers</b></p>
+							<p>The maneuvers are presented in alphabetical order.</p>
+							<table>
+								<tr>
+									<td><b>Maneuver</b></td>
+									<td colspan="3"><b>Description</b></td>
+								</tr>
+								<tr>
+									<td><b>Commander's Strike</b></td>
+									<td colspan="3">When you take the Attack action on your turn, you can forgo one of your attacks and use a bonus action to direct one of your companions to strike. When you do so, choose a friendly creature who can see or hear you and expend one superiority die. That creature can immediately use its reaction to make one weapon attack, adding the superiority die to the attack's damage roll.</td>
+								</tr>
+								<tr>
+									<td><b>Disarming Attack</b></td>
+									<td colspan="3">When you hit a creature with a weapon attack, you can expend one superiority die to attempt to disarm the target, forcing it to drop one item of your choice that it's holding. You add the superiority die to the attack's damage roll, and the target must make a Strength saving throw. On a failed save, it drops the object you choose. The object lands at its feet.</td>
+								</tr>
+								<tr>
+									<td><b>Distracting Strike</b></td>
+									<td colspan="3">When you hit a creature with a weapon attack, you can expend one superiority die to distract the creature, giving your allies an opening. You add the superiority die to the attack's damage roll. The next attack roll against the target by an attacker other than you has advantage if the attack is made before the start of your next turn.</td>
+								</tr>
+								<tr>
+									<td><b>Evasive Footwork</b></td>
+									<td colspan="3">When you move, you can expend one superiority die, rolling the die and adding the number rolled to your AC until you stop moving.</td>
+								</tr>
+								<tr>
+									<td><b>Feinting Attack.</b></td>
+									<td colspan="3">You can expend one superiority die and use a bonus action on your turn to feint, choosing one creature within 5 feet of you as your target. You have advantage on your next attack roll against that creature. If that attack hits, add the superiority die to the attack's damage roll. The advantage is lost if not used on the turn you gain it.</td>
+								</tr>
+								<tr>
+									<td><b>Goading Attack</b></td>
+									<td colspan="3">When you hit a creature with a weapon attack, you can expend one superiority die to attempt to goad the target into attacking you. You add the superiority die to the attack's damage roll, and the target must make a Wisdom saving throw. On a failed save, the target has disadvantage on all attack rolls against targets other than you until the end of your next turn.</td>
+								</tr>
+								<tr>
+									<td><b>Lunging Attack</b></td>
+									<td colspan="3">When you make a melee weapon attack on your turn, you can expend one superiority die to increase your reach for that attack by 5 feet. If you hit, you add the superiority die to the attack's damage roll.</td>
+								</tr>
+								<tr>
+									<td><b>Maneuvering Attack</b></td>
+									<td colspan="3">When you hit a creature with a weapon attack, you can expend one superiority die to maneuver one of your comrades into a more advantageous position. You add the superiority die to the attack's damage roll, and you choose a friendly creature who can see or hear you. That creature can use its reaction to move up to half its speed without provoking opportunity attacks from the target of your attack.</td>
+								</tr>
+								<tr>
+									<td><b>Menacing Attack</b></td>
+									<td colspan="3">When you hit a creature with a weapon attack, you can expend one superiority die to attempt to frighten the target. You add the superiority die to the attack's damage roll, and the target must make a Wisdom saving throw. On a failed save, it is frightened of you until the end of your next turn.</td>
+								</tr>
+								<tr>
+									<td><b>Parry</b></td>
+									<td colspan="3">When another creature damages you with a melee attack, you can use your reaction and expend one superiority die to reduce the damage by the number you roll on your superiority die + your Dexterity modifier.</td>
+								</tr>
+								<tr>
+									<td><b>Precision Attack</b></td>
+									<td colspan="3">When you make a weapon attack roll against a creature, you can expend one superiority die to add it to the roll. You can use this maneuver before or after making the attack roll, but before any effects of the attack are applied.</td>
+								</tr>
+								<tr>
+									<td><b>Pushing Attack</b></td>
+									<td colspan="3">When you hit a creature with a weapon attack, you can expend one superiority die to attempt to drive the target back. You add the superiority die to the attack's damage roll, and if the target is Large or smaller, it must make a Strength saving throw. On a failed save, you push the target up to 15 feet away from you.</td>
+								</tr>
+								<tr>
+									<td><b>Rally</b></td>
+									<td colspan="3">On your turn, you can use a bonus action and expend one superiority die to bolster the resolve of one of your companions. When you do so, choose a friendly creature who can see or hear you. That creature gains temporary hit points equal to the superiority die roll + your Charisma modifier.</td>
+								</tr>
+								<tr>
+									<td><b>Riposte</b></td>
+									<td colspan="3">When a creature misses you with a melee attack, you can use your reaction and expend one superiority die to make a melee weapon attack against the creature. If you hit, you add the superiority die to the attack's damage roll.</td>
+								</tr>
+								<tr>
+									<td><b>Sweeping Attack</b></td>
+									<td colspan="3">When you hit a creature with a melee weapon attack, you can expend one superiority die to attempt to damage another creature with the same attack. Choose another creature within 5 feet of the original target and within your reach. If the original attack roll would hit the second creature, it takes damage equal to the number you roll on your superiority die. The damage is of the same type dealt by the original attack.</td>
+								</tr>
+								<tr>
+									<td><b>Trip Attack</b></td>
+									<td colspan="3">When you hit a creature with a weapon attack, you can expend one superiority die to attempt to knock the target down. You add the superiority die to the attack's damage roll, and if the target is Large or smaller, it must make a Strength saving throw. On a failed save, you knock the target prone.</td>
+								</tr>
+							</table>
+							<p><b>Superiority Dice. </b>You have four superiority dice, which are d8s. A superiority die is expended when you use it. You regain all of your expended superiority dice when you finish a short or long rest.</p>
+							<p>You gain another superiority die at 7th level and one more at 15th level.</p>
+							<p><b>Saving Throws. </b>Some of your maneuvers require your target to make a saving throw to resist the maneuver's effects. The saving throw DC is calculated as follows:</p>
+							<p><b>Maneuver save DC </b>= 8 + your proficiency bonus + your Strength or Dexterity modifier (your choice)</p>
+						</text>
+					</combatsuperiority10>
+					<combatsuperiority15>
+						<level type="number">15</level>
+						<name type="string">Combat Superiority</name>
+						<specialization type="string">Battle Master</specialization>
+						<text type="formattedtext">
+							<p>When you choose this archetype at 3rd level, you learn maneuvers that are fueled by special dice called superiority dice.</p>
+							<p><b>Maneuvers. </b>You learn three maneuvers of your choice, which are detailed under &#34;Maneuvers&#34; below. Many maneuvers enhance an attack in some way. You can use only one maneuver per attack.</p>
+							<p>You learn two additional maneuvers of your choice at 7th, 10th, and 15th level. Each time you learn new maneuvers, you can also replace one maneuver you know with a different one.</p>
+							<p><b>Maneuvers</b></p>
+							<p>The maneuvers are presented in alphabetical order.</p>
+							<table>
+								<tr>
+									<td><b>Maneuver</b></td>
+									<td colspan="3"><b>Description</b></td>
+								</tr>
+								<tr>
+									<td><b>Commander's Strike</b></td>
+									<td colspan="3">When you take the Attack action on your turn, you can forgo one of your attacks and use a bonus action to direct one of your companions to strike. When you do so, choose a friendly creature who can see or hear you and expend one superiority die. That creature can immediately use its reaction to make one weapon attack, adding the superiority die to the attack's damage roll.</td>
+								</tr>
+								<tr>
+									<td><b>Disarming Attack</b></td>
+									<td colspan="3">When you hit a creature with a weapon attack, you can expend one superiority die to attempt to disarm the target, forcing it to drop one item of your choice that it's holding. You add the superiority die to the attack's damage roll, and the target must make a Strength saving throw. On a failed save, it drops the object you choose. The object lands at its feet.</td>
+								</tr>
+								<tr>
+									<td><b>Distracting Strike</b></td>
+									<td colspan="3">When you hit a creature with a weapon attack, you can expend one superiority die to distract the creature, giving your allies an opening. You add the superiority die to the attack's damage roll. The next attack roll against the target by an attacker other than you has advantage if the attack is made before the start of your next turn.</td>
+								</tr>
+								<tr>
+									<td><b>Evasive Footwork</b></td>
+									<td colspan="3">When you move, you can expend one superiority die, rolling the die and adding the number rolled to your AC until you stop moving.</td>
+								</tr>
+								<tr>
+									<td><b>Feinting Attack.</b></td>
+									<td colspan="3">You can expend one superiority die and use a bonus action on your turn to feint, choosing one creature within 5 feet of you as your target. You have advantage on your next attack roll against that creature. If that attack hits, add the superiority die to the attack's damage roll. The advantage is lost if not used on the turn you gain it.</td>
+								</tr>
+								<tr>
+									<td><b>Goading Attack</b></td>
+									<td colspan="3">When you hit a creature with a weapon attack, you can expend one superiority die to attempt to goad the target into attacking you. You add the superiority die to the attack's damage roll, and the target must make a Wisdom saving throw. On a failed save, the target has disadvantage on all attack rolls against targets other than you until the end of your next turn.</td>
+								</tr>
+								<tr>
+									<td><b>Lunging Attack</b></td>
+									<td colspan="3">When you make a melee weapon attack on your turn, you can expend one superiority die to increase your reach for that attack by 5 feet. If you hit, you add the superiority die to the attack's damage roll.</td>
+								</tr>
+								<tr>
+									<td><b>Maneuvering Attack</b></td>
+									<td colspan="3">When you hit a creature with a weapon attack, you can expend one superiority die to maneuver one of your comrades into a more advantageous position. You add the superiority die to the attack's damage roll, and you choose a friendly creature who can see or hear you. That creature can use its reaction to move up to half its speed without provoking opportunity attacks from the target of your attack.</td>
+								</tr>
+								<tr>
+									<td><b>Menacing Attack</b></td>
+									<td colspan="3">When you hit a creature with a weapon attack, you can expend one superiority die to attempt to frighten the target. You add the superiority die to the attack's damage roll, and the target must make a Wisdom saving throw. On a failed save, it is frightened of you until the end of your next turn.</td>
+								</tr>
+								<tr>
+									<td><b>Parry</b></td>
+									<td colspan="3">When another creature damages you with a melee attack, you can use your reaction and expend one superiority die to reduce the damage by the number you roll on your superiority die + your Dexterity modifier.</td>
+								</tr>
+								<tr>
+									<td><b>Precision Attack</b></td>
+									<td colspan="3">When you make a weapon attack roll against a creature, you can expend one superiority die to add it to the roll. You can use this maneuver before or after making the attack roll, but before any effects of the attack are applied.</td>
+								</tr>
+								<tr>
+									<td><b>Pushing Attack</b></td>
+									<td colspan="3">When you hit a creature with a weapon attack, you can expend one superiority die to attempt to drive the target back. You add the superiority die to the attack's damage roll, and if the target is Large or smaller, it must make a Strength saving throw. On a failed save, you push the target up to 15 feet away from you.</td>
+								</tr>
+								<tr>
+									<td><b>Rally</b></td>
+									<td colspan="3">On your turn, you can use a bonus action and expend one superiority die to bolster the resolve of one of your companions. When you do so, choose a friendly creature who can see or hear you. That creature gains temporary hit points equal to the superiority die roll + your Charisma modifier.</td>
+								</tr>
+								<tr>
+									<td><b>Riposte</b></td>
+									<td colspan="3">When a creature misses you with a melee attack, you can use your reaction and expend one superiority die to make a melee weapon attack against the creature. If you hit, you add the superiority die to the attack's damage roll.</td>
+								</tr>
+								<tr>
+									<td><b>Sweeping Attack</b></td>
+									<td colspan="3">When you hit a creature with a melee weapon attack, you can expend one superiority die to attempt to damage another creature with the same attack. Choose another creature within 5 feet of the original target and within your reach. If the original attack roll would hit the second creature, it takes damage equal to the number you roll on your superiority die. The damage is of the same type dealt by the original attack.</td>
+								</tr>
+								<tr>
+									<td><b>Trip Attack</b></td>
+									<td colspan="3">When you hit a creature with a weapon attack, you can expend one superiority die to attempt to knock the target down. You add the superiority die to the attack's damage roll, and if the target is Large or smaller, it must make a Strength saving throw. On a failed save, you knock the target prone.</td>
+								</tr>
+							</table>
+							<p><b>Superiority Dice. </b>You have four superiority dice, which are d8s. A superiority die is expended when you use it. You regain all of your expended superiority dice when you finish a short or long rest.</p>
+							<p>You gain another superiority die at 7th level and one more at 15th level.</p>
+							<p><b>Saving Throws. </b>Some of your maneuvers require your target to make a saving throw to resist the maneuver's effects. The saving throw DC is calculated as follows:</p>
+							<p><b>Maneuver save DC </b>= 8 + your proficiency bonus + your Strength or Dexterity modifier (your choice)</p>
+						</text>
+					</combatsuperiority15>
+					<combatsuperiority3>
+						<level type="number">3</level>
+						<name type="string">Combat Superiority</name>
+						<specialization type="string">Battle Master</specialization>
+						<text type="formattedtext">
+							<p>When you choose this archetype at 3rd level, you learn maneuvers that are fueled by special dice called superiority dice.</p>
+							<p><b>Maneuvers. </b>You learn three maneuvers of your choice, which are detailed under &#34;Maneuvers&#34; below. Many maneuvers enhance an attack in some way. You can use only one maneuver per attack.</p>
+							<p>You learn two additional maneuvers of your choice at 7th, 10th, and 15th level. Each time you learn new maneuvers, you can also replace one maneuver you know with a different one.</p>
+							<p><b>Maneuvers</b></p>
+							<p>The maneuvers are presented in alphabetical order.</p>
+							<table>
+								<tr>
+									<td><b>Maneuver</b></td>
+									<td colspan="3"><b>Description</b></td>
+								</tr>
+								<tr>
+									<td><b>Commander's Strike</b></td>
+									<td colspan="3">When you take the Attack action on your turn, you can forgo one of your attacks and use a bonus action to direct one of your companions to strike. When you do so, choose a friendly creature who can see or hear you and expend one superiority die. That creature can immediately use its reaction to make one weapon attack, adding the superiority die to the attack's damage roll.</td>
+								</tr>
+								<tr>
+									<td><b>Disarming Attack</b></td>
+									<td colspan="3">When you hit a creature with a weapon attack, you can expend one superiority die to attempt to disarm the target, forcing it to drop one item of your choice that it's holding. You add the superiority die to the attack's damage roll, and the target must make a Strength saving throw. On a failed save, it drops the object you choose. The object lands at its feet.</td>
+								</tr>
+								<tr>
+									<td><b>Distracting Strike</b></td>
+									<td colspan="3">When you hit a creature with a weapon attack, you can expend one superiority die to distract the creature, giving your allies an opening. You add the superiority die to the attack's damage roll. The next attack roll against the target by an attacker other than you has advantage if the attack is made before the start of your next turn.</td>
+								</tr>
+								<tr>
+									<td><b>Evasive Footwork</b></td>
+									<td colspan="3">When you move, you can expend one superiority die, rolling the die and adding the number rolled to your AC until you stop moving.</td>
+								</tr>
+								<tr>
+									<td><b>Feinting Attack.</b></td>
+									<td colspan="3">You can expend one superiority die and use a bonus action on your turn to feint, choosing one creature within 5 feet of you as your target. You have advantage on your next attack roll against that creature. If that attack hits, add the superiority die to the attack's damage roll. The advantage is lost if not used on the turn you gain it.</td>
+								</tr>
+								<tr>
+									<td><b>Goading Attack</b></td>
+									<td colspan="3">When you hit a creature with a weapon attack, you can expend one superiority die to attempt to goad the target into attacking you. You add the superiority die to the attack's damage roll, and the target must make a Wisdom saving throw. On a failed save, the target has disadvantage on all attack rolls against targets other than you until the end of your next turn.</td>
+								</tr>
+								<tr>
+									<td><b>Lunging Attack</b></td>
+									<td colspan="3">When you make a melee weapon attack on your turn, you can expend one superiority die to increase your reach for that attack by 5 feet. If you hit, you add the superiority die to the attack's damage roll.</td>
+								</tr>
+								<tr>
+									<td><b>Maneuvering Attack</b></td>
+									<td colspan="3">When you hit a creature with a weapon attack, you can expend one superiority die to maneuver one of your comrades into a more advantageous position. You add the superiority die to the attack's damage roll, and you choose a friendly creature who can see or hear you. That creature can use its reaction to move up to half its speed without provoking opportunity attacks from the target of your attack.</td>
+								</tr>
+								<tr>
+									<td><b>Menacing Attack</b></td>
+									<td colspan="3">When you hit a creature with a weapon attack, you can expend one superiority die to attempt to frighten the target. You add the superiority die to the attack's damage roll, and the target must make a Wisdom saving throw. On a failed save, it is frightened of you until the end of your next turn.</td>
+								</tr>
+								<tr>
+									<td><b>Parry</b></td>
+									<td colspan="3">When another creature damages you with a melee attack, you can use your reaction and expend one superiority die to reduce the damage by the number you roll on your superiority die + your Dexterity modifier.</td>
+								</tr>
+								<tr>
+									<td><b>Precision Attack</b></td>
+									<td colspan="3">When you make a weapon attack roll against a creature, you can expend one superiority die to add it to the roll. You can use this maneuver before or after making the attack roll, but before any effects of the attack are applied.</td>
+								</tr>
+								<tr>
+									<td><b>Pushing Attack</b></td>
+									<td colspan="3">When you hit a creature with a weapon attack, you can expend one superiority die to attempt to drive the target back. You add the superiority die to the attack's damage roll, and if the target is Large or smaller, it must make a Strength saving throw. On a failed save, you push the target up to 15 feet away from you.</td>
+								</tr>
+								<tr>
+									<td><b>Rally</b></td>
+									<td colspan="3">On your turn, you can use a bonus action and expend one superiority die to bolster the resolve of one of your companions. When you do so, choose a friendly creature who can see or hear you. That creature gains temporary hit points equal to the superiority die roll + your Charisma modifier.</td>
+								</tr>
+								<tr>
+									<td><b>Riposte</b></td>
+									<td colspan="3">When a creature misses you with a melee attack, you can use your reaction and expend one superiority die to make a melee weapon attack against the creature. If you hit, you add the superiority die to the attack's damage roll.</td>
+								</tr>
+								<tr>
+									<td><b>Sweeping Attack</b></td>
+									<td colspan="3">When you hit a creature with a melee weapon attack, you can expend one superiority die to attempt to damage another creature with the same attack. Choose another creature within 5 feet of the original target and within your reach. If the original attack roll would hit the second creature, it takes damage equal to the number you roll on your superiority die. The damage is of the same type dealt by the original attack.</td>
+								</tr>
+								<tr>
+									<td><b>Trip Attack</b></td>
+									<td colspan="3">When you hit a creature with a weapon attack, you can expend one superiority die to attempt to knock the target down. You add the superiority die to the attack's damage roll, and if the target is Large or smaller, it must make a Strength saving throw. On a failed save, you knock the target prone.</td>
+								</tr>
+							</table>
+							<p><b>Superiority Dice. </b>You have four superiority dice, which are d8s. A superiority die is expended when you use it. You regain all of your expended superiority dice when you finish a short or long rest.</p>
+							<p>You gain another superiority die at 7th level and one more at 15th level.</p>
+							<p><b>Saving Throws. </b>Some of your maneuvers require your target to make a saving throw to resist the maneuver's effects. The saving throw DC is calculated as follows:</p>
+							<p><b>Maneuver save DC </b>= 8 + your proficiency bonus + your Strength or Dexterity modifier (your choice)</p>
+						</text>
+					</combatsuperiority3>
+					<combatsuperiority7>
+						<level type="number">7</level>
+						<name type="string">Combat Superiority</name>
+						<specialization type="string">Battle Master</specialization>
+						<text type="formattedtext">
+							<p>When you choose this archetype at 3rd level, you learn maneuvers that are fueled by special dice called superiority dice.</p>
+							<p><b>Maneuvers. </b>You learn three maneuvers of your choice, which are detailed under &#34;Maneuvers&#34; below. Many maneuvers enhance an attack in some way. You can use only one maneuver per attack.</p>
+							<p>You learn two additional maneuvers of your choice at 7th, 10th, and 15th level. Each time you learn new maneuvers, you can also replace one maneuver you know with a different one.</p>
+							<p><b>Maneuvers</b></p>
+							<p>The maneuvers are presented in alphabetical order.</p>
+							<table>
+								<tr>
+									<td><b>Maneuver</b></td>
+									<td colspan="3"><b>Description</b></td>
+								</tr>
+								<tr>
+									<td><b>Commander's Strike</b></td>
+									<td colspan="3">When you take the Attack action on your turn, you can forgo one of your attacks and use a bonus action to direct one of your companions to strike. When you do so, choose a friendly creature who can see or hear you and expend one superiority die. That creature can immediately use its reaction to make one weapon attack, adding the superiority die to the attack's damage roll.</td>
+								</tr>
+								<tr>
+									<td><b>Disarming Attack</b></td>
+									<td colspan="3">When you hit a creature with a weapon attack, you can expend one superiority die to attempt to disarm the target, forcing it to drop one item of your choice that it's holding. You add the superiority die to the attack's damage roll, and the target must make a Strength saving throw. On a failed save, it drops the object you choose. The object lands at its feet.</td>
+								</tr>
+								<tr>
+									<td><b>Distracting Strike</b></td>
+									<td colspan="3">When you hit a creature with a weapon attack, you can expend one superiority die to distract the creature, giving your allies an opening. You add the superiority die to the attack's damage roll. The next attack roll against the target by an attacker other than you has advantage if the attack is made before the start of your next turn.</td>
+								</tr>
+								<tr>
+									<td><b>Evasive Footwork</b></td>
+									<td colspan="3">When you move, you can expend one superiority die, rolling the die and adding the number rolled to your AC until you stop moving.</td>
+								</tr>
+								<tr>
+									<td><b>Feinting Attack.</b></td>
+									<td colspan="3">You can expend one superiority die and use a bonus action on your turn to feint, choosing one creature within 5 feet of you as your target. You have advantage on your next attack roll against that creature. If that attack hits, add the superiority die to the attack's damage roll. The advantage is lost if not used on the turn you gain it.</td>
+								</tr>
+								<tr>
+									<td><b>Goading Attack</b></td>
+									<td colspan="3">When you hit a creature with a weapon attack, you can expend one superiority die to attempt to goad the target into attacking you. You add the superiority die to the attack's damage roll, and the target must make a Wisdom saving throw. On a failed save, the target has disadvantage on all attack rolls against targets other than you until the end of your next turn.</td>
+								</tr>
+								<tr>
+									<td><b>Lunging Attack</b></td>
+									<td colspan="3">When you make a melee weapon attack on your turn, you can expend one superiority die to increase your reach for that attack by 5 feet. If you hit, you add the superiority die to the attack's damage roll.</td>
+								</tr>
+								<tr>
+									<td><b>Maneuvering Attack</b></td>
+									<td colspan="3">When you hit a creature with a weapon attack, you can expend one superiority die to maneuver one of your comrades into a more advantageous position. You add the superiority die to the attack's damage roll, and you choose a friendly creature who can see or hear you. That creature can use its reaction to move up to half its speed without provoking opportunity attacks from the target of your attack.</td>
+								</tr>
+								<tr>
+									<td><b>Menacing Attack</b></td>
+									<td colspan="3">When you hit a creature with a weapon attack, you can expend one superiority die to attempt to frighten the target. You add the superiority die to the attack's damage roll, and the target must make a Wisdom saving throw. On a failed save, it is frightened of you until the end of your next turn.</td>
+								</tr>
+								<tr>
+									<td><b>Parry</b></td>
+									<td colspan="3">When another creature damages you with a melee attack, you can use your reaction and expend one superiority die to reduce the damage by the number you roll on your superiority die + your Dexterity modifier.</td>
+								</tr>
+								<tr>
+									<td><b>Precision Attack</b></td>
+									<td colspan="3">When you make a weapon attack roll against a creature, you can expend one superiority die to add it to the roll. You can use this maneuver before or after making the attack roll, but before any effects of the attack are applied.</td>
+								</tr>
+								<tr>
+									<td><b>Pushing Attack</b></td>
+									<td colspan="3">When you hit a creature with a weapon attack, you can expend one superiority die to attempt to drive the target back. You add the superiority die to the attack's damage roll, and if the target is Large or smaller, it must make a Strength saving throw. On a failed save, you push the target up to 15 feet away from you.</td>
+								</tr>
+								<tr>
+									<td><b>Rally</b></td>
+									<td colspan="3">On your turn, you can use a bonus action and expend one superiority die to bolster the resolve of one of your companions. When you do so, choose a friendly creature who can see or hear you. That creature gains temporary hit points equal to the superiority die roll + your Charisma modifier.</td>
+								</tr>
+								<tr>
+									<td><b>Riposte</b></td>
+									<td colspan="3">When a creature misses you with a melee attack, you can use your reaction and expend one superiority die to make a melee weapon attack against the creature. If you hit, you add the superiority die to the attack's damage roll.</td>
+								</tr>
+								<tr>
+									<td><b>Sweeping Attack</b></td>
+									<td colspan="3">When you hit a creature with a melee weapon attack, you can expend one superiority die to attempt to damage another creature with the same attack. Choose another creature within 5 feet of the original target and within your reach. If the original attack roll would hit the second creature, it takes damage equal to the number you roll on your superiority die. The damage is of the same type dealt by the original attack.</td>
+								</tr>
+								<tr>
+									<td><b>Trip Attack</b></td>
+									<td colspan="3">When you hit a creature with a weapon attack, you can expend one superiority die to attempt to knock the target down. You add the superiority die to the attack's damage roll, and if the target is Large or smaller, it must make a Strength saving throw. On a failed save, you knock the target prone.</td>
+								</tr>
+							</table>
+							<p><b>Superiority Dice. </b>You have four superiority dice, which are d8s. A superiority die is expended when you use it. You regain all of your expended superiority dice when you finish a short or long rest.</p>
+							<p>You gain another superiority die at 7th level and one more at 15th level.</p>
+							<p><b>Saving Throws. </b>Some of your maneuvers require your target to make a saving throw to resist the maneuver's effects. The saving throw DC is calculated as follows:</p>
+							<p><b>Maneuver save DC </b>= 8 + your proficiency bonus + your Strength or Dexterity modifier (your choice)</p>
+						</text>
+					</combatsuperiority7>
+					<eldritchstrike10>
+						<level type="number">10</level>
+						<name type="string">Eldritch Strike</name>
+						<specialization type="string">Eldritch Knight</specialization>
+						<text type="formattedtext">
+							<p>At 10th level, you learn how to make your weapon strikes undercut a creature's resistance to your spells. When you hit a creature with a weapon attack, that creature has disadvantage on the next saving throw it makes against a spell you cast before the end of your next turn.</p>
+						</text>
+					</eldritchstrike10>
+					<extraattack5>
+						<level type="number">5</level>
+						<name type="string">Extra Attack</name>
+						<text type="formattedtext">
+							<p>Beginning at 5th level, you can attack twice, instead of once, whenever you take the Attack action on your turn. The number of attacks increases to three when you reach 11th level in this class and to four when you reach 20th level in this class.</p>
+						</text>
+					</extraattack5>
+					<fightingstyle1>
+						<level type="number">1</level>
+						<name type="string">Fighting Style</name>
+						<text type="formattedtext">
+							<p>You adopt a particular style of fighting as your specialty. Choose one of the following options. You can't take a Fighting Style option more than once, even if you later get to choose again.</p>
+							<p><b>Archery</b></p>
+							<p>You gain a +2 bonus to attack rolls you make with ranged weapons.</p>
+							<p><b>Defense</b></p>
+							<p>While you are wearing armor, you gain a +1 bonus to AC.</p>
+							<p><b>Dueling</b></p>
+							<p>When you are wielding a melee weapon in one hand and no other weapons, you gain a +2 bonus to damage rolls with that weapon.</p>
+							<p><b>Great Weapon Fighting</b></p>
+							<p>When you roll a 1 or 2 on a damage die for an attack you make with a melee weapon that you are wielding with two hands, you can reroll the die and must use the new roll, even if the new roll is a 1 or a 2. The weapon must have the two-handed or versatile property for you to gain this benefit.</p>
+							<p><b>Protection</b></p>
+							<p>When a creature you can see attacks a target other than you that is within 5 feet of you, you can use your reaction to impose disadvantage on the attack roll. You must be wielding a shield.</p>
+							<p><b>Two-Weapon Fighting</b></p>
+							<p>When you engage in two-weapon fighting, you can add your ability modifier to the damage of the second attack.</p>
+						</text>
+					</fightingstyle1>
+					<improvedcombatsuperiority10>
+						<level type="number">10</level>
+						<name type="string">Improved Combat Superiority</name>
+						<specialization type="string">Battle Master</specialization>
+						<text type="formattedtext">
+							<p>At 10th level, your superiority dice turn into d10s. At 18th level, they turn into d12s.</p>
+						</text>
+					</improvedcombatsuperiority10>
+					<improvedcombatsuperiority18>
+						<level type="number">18</level>
+						<name type="string">Improved Combat Superiority</name>
+						<specialization type="string">Battle Master</specialization>
+						<text type="formattedtext">
+							<p>At 10th level, your superiority dice turn into d10s. At 18th level, they turn into d12s.</p>
+						</text>
+					</improvedcombatsuperiority18>
+					<improvedcritical3>
+						<level type="number">3</level>
+						<name type="string">Improved Critical</name>
+						<specialization type="string">Champion</specialization>
+						<text type="formattedtext">
+							<p>Beginning when you choose this archetype at 3rd level, your weapon attacks score a critical hit on a roll of 19 or 20.</p>
+						</text>
+					</improvedcritical3>
+					<improvedwarmagic18>
+						<level type="number">18</level>
+						<name type="string">Improved War Magic</name>
+						<specialization type="string">Eldritch Knight</specialization>
+						<text type="formattedtext">
+							<p>Starting at 18th level, when you use your action to cast a spell, you can make one weapon attack as a bonus action.</p>
+						</text>
+					</improvedwarmagic18>
+					<indomitable13>
+						<level type="number">13</level>
+						<name type="string">Indomitable</name>
+						<text type="formattedtext">
+							<p>Beginning at 9th level, you can reroll a saving throw that you fail. If you do so, you must use the new roll, and you can't use this feature again until you finish a long rest.</p>
+							<p>You can use this feature twice between long rests starting at 13th level and three times between long rests starting at 17th level.</p>
+						</text>
+					</indomitable13>
+					<indomitable17>
+						<level type="number">17</level>
+						<name type="string">Indomitable</name>
+						<text type="formattedtext">
+							<p>Beginning at 9th level, you can reroll a saving throw that you fail. If you do so, you must use the new roll, and you can't use this feature again until you finish a long rest.</p>
+							<p>You can use this feature twice between long rests starting at 13th level and three times between long rests starting at 17th level.</p>
+						</text>
+					</indomitable17>
+					<indomitable9>
+						<level type="number">9</level>
+						<name type="string">Indomitable</name>
+						<text type="formattedtext">
+							<p>Beginning at 9th level, you can reroll a saving throw that you fail. If you do so, you must use the new roll, and you can't use this feature again until you finish a long rest.</p>
+							<p>You can use this feature twice between long rests starting at 13th level and three times between long rests starting at 17th level.</p>
+						</text>
+					</indomitable9>
+					<knowyourenemy7>
+						<level type="number">7</level>
+						<name type="string">Know Your Enemy</name>
+						<specialization type="string">Battle Master</specialization>
+						<text type="formattedtext">
+							<p>Starting at 7th level, if you spend at least 1 minute observing or interacting with another creature outside combat, you can learn certain information about its capabilities compared to your own. The DM tells you if the creature is your equal, superior, or inferior in regard to two of the following characteristics of your choice:</p>
+							<list>
+								<li>Strength score</li>
+								<li>Dexterity score</li>
+								<li>Constitution score</li>
+								<li>Armor Class</li>
+								<li>Current hit points</li>
+								<li>Total class levels (if any)</li>
+								<li>Fighter class levels (if any)</li>
+							</list>
+						</text>
+					</knowyourenemy7>
+					<martialarchetype3>
+						<level type="number">3</level>
+						<name type="string">Martial Archetype</name>
+						<specializationchoice type="number">1</specializationchoice>
+						<text type="formattedtext">
+							<p>At 3rd level, you choose an archetype that you strive to emulate in your combat styles and techniques. Choose Champion, Battle Master or Eldritch Knight, all detailed at the end of the class description. The archetype you choose grants you features at 3rd level and again at 7th, 10th, 15th, and 18th level.</p>
+						</text>
+					</martialarchetype3>
+					<relentless15>
+						<level type="number">15</level>
+						<name type="string">Relentless</name>
+						<specialization type="string">Battle Master</specialization>
+						<text type="formattedtext">
+							<p>Starting at 15th level, when you roll initiative and have no superiority dice remaining, you regain 1 superiority die.</p>
+						</text>
+					</relentless15>
+					<remarkableathlete7>
+						<level type="number">7</level>
+						<name type="string">Remarkable Athlete</name>
+						<specialization type="string">Champion</specialization>
+						<text type="formattedtext">
+							<p>Starting at 7th level, you can add half your proficiency bonus (round up) to any Strength, Dexterity, or Constitution check you make that doesn't already use your proficiency bonus.</p>
+							<p>In addition, when you make a running long jump, the distance you can cover increases by a number of feet equal to your Strength modifier.</p>
+						</text>
+					</remarkableathlete7>
+					<secondwind1>
+						<level type="number">1</level>
+						<name type="string">Second Wind</name>
+						<text type="formattedtext">
+							<p>You have a limited well of stamina that you can draw on to protect yourself from harm. On your turn, you can use a bonus action to regain hit points equal to 1d10 + your fighter level.</p>
+							<p>Once you use this feature, you must finish a short or long rest before you can use it again.</p>
+						</text>
+					</secondwind1>
+					<spellcasting3>
+						<level type="number">3</level>
+						<name type="string">Spellcasting</name>
+						<specialization type="string">Eldritch Knight</specialization>
+						<text type="formattedtext">
+							<p>When you reach 3rd level, you augment your martial prowess with the ability to cast spells. See chapter 10 for the general rules of spellcasting and chapter 11 for the wizard spell list.</p>
+							<linklist>
+								<link class="reference_colindex" recordname="reference.spelllists.eldritchknight@DD PHB Deluxe">Eldritch Knight Spells</link>
+							</linklist>
+							<p><b>Cantrips. </b>You learn two cantrips of your choice from the wizard spell list. You learn an additional wizard cantrip of your choice at 10th level.</p>
+							<p><b>Spell Slots. </b>The Eldritch Knight Spellcasting table shows how many spell slots you have to cast your wizard spells of 1st level and higher. To cast one of these spells, you must expend a slot of the spell's level or higher. You regain all expended spell slots when you finish a long rest.</p>
+							<p>For example, if you know the 1st-level spell shield and have a 1st-level and a 2nd-level spell slot available, you can cast shield using either slot.</p>
+							<p><b>Spells Known of 1st-Level and Higher. </b>You know three 1st-level wizard spells of your choice, two of which you must choose from the abjuration and evocation spells on the wizard spell list.</p>
+							<p>The Spells Known column of the Eldritch Knight Spellcasting table shows when you learn more wizard spells of 1st level or higher. Each of these spells must be an abjuration or evocation spell of your choice, and must be of a level for which you have spell slots. For instance, when you reach 7th level in this class, you can learn one new spell of 1st or 2nd level.</p>
+							<p>The spells you learn at 8th, 14th, and 20th level can come from any school of magic.</p>
+							<p>Whenever you gain a level in this class, you can replace one of the wizard spells you know with another spell of your choice from the wizard spell list. The new spell must be of a level for which you have spell slots, and it must be an abjuration or evocation spell, unless you're replacing the spell you gained at 8th, 14th, or 20th level from</p>
+							<p>any school of magic.</p>
+							<p><b>Spellcasting Ability. </b>Intelligence is your spellcasting ability for your wizard spells, since you learn your spells through study and memorization. You use your Intelligence whenever a spell refers to your spellcasting ability. In addition, you use your Intelligence modifier when setting the saving throw DC for a wizard spell you cast and when making an attack roll with one.</p>
+							<p><b>Spell save DC </b>= 8 + your proficiency bonus + your Intelligence modifier</p>
+							<p><b>Spell attack modifier </b>= your proficiency bonus + your Intelligence modifier</p>
+							<p><b>Eldritch Knight Spellcasting</b></p>
+							<table>
+								<tr>
+									<td><b>Fighter Level</b></td>
+									<td><b>Cantrips Known</b></td>
+									<td><b>Spells Known</b></td>
+									<td><b>1st</b></td>
+									<td><b>2nd</b></td>
+									<td><b>3rd</b></td>
+									<td><b>4th</b></td>
+								</tr>
+								<tr>
+									<td>3rd</td>
+									<td>2</td>
+									<td>3</td>
+									<td>2</td>
+									<td>-</td>
+									<td>-</td>
+									<td>-</td>
+								</tr>
+								<tr>
+									<td>4th</td>
+									<td>2</td>
+									<td>4</td>
+									<td>3</td>
+									<td>-</td>
+									<td>-</td>
+									<td>-</td>
+								</tr>
+								<tr>
+									<td>5th</td>
+									<td>2</td>
+									<td>4</td>
+									<td>3</td>
+									<td>-</td>
+									<td>-</td>
+									<td>-</td>
+								</tr>
+								<tr>
+									<td>6th</td>
+									<td>2</td>
+									<td>4</td>
+									<td>3</td>
+									<td>-</td>
+									<td>-</td>
+									<td>-</td>
+								</tr>
+								<tr>
+									<td>7th</td>
+									<td>2</td>
+									<td>5</td>
+									<td>4</td>
+									<td>2</td>
+									<td>-</td>
+									<td>-</td>
+								</tr>
+								<tr>
+									<td>8th</td>
+									<td>2</td>
+									<td>6</td>
+									<td>4</td>
+									<td>2</td>
+									<td>-</td>
+									<td>-</td>
+								</tr>
+								<tr>
+									<td>9th</td>
+									<td>2</td>
+									<td>6</td>
+									<td>4</td>
+									<td>2</td>
+									<td>-</td>
+									<td>-</td>
+								</tr>
+								<tr>
+									<td>10th</td>
+									<td>3</td>
+									<td>7</td>
+									<td>4</td>
+									<td>3</td>
+									<td>-</td>
+									<td>-</td>
+								</tr>
+								<tr>
+									<td>11th</td>
+									<td>3</td>
+									<td>8</td>
+									<td>4</td>
+									<td>3</td>
+									<td>-</td>
+									<td>-</td>
+								</tr>
+								<tr>
+									<td>12th</td>
+									<td>3</td>
+									<td>8</td>
+									<td>4</td>
+									<td>3</td>
+									<td>-</td>
+									<td>-</td>
+								</tr>
+								<tr>
+									<td>13th</td>
+									<td>3</td>
+									<td>9</td>
+									<td>4</td>
+									<td>3</td>
+									<td>2</td>
+									<td>-</td>
+								</tr>
+								<tr>
+									<td>14th</td>
+									<td>3</td>
+									<td>10</td>
+									<td>4</td>
+									<td>3</td>
+									<td>2</td>
+									<td>-</td>
+								</tr>
+								<tr>
+									<td>15th</td>
+									<td>3</td>
+									<td>10</td>
+									<td>4</td>
+									<td>3</td>
+									<td>2</td>
+									<td>-</td>
+								</tr>
+								<tr>
+									<td>16th</td>
+									<td>3</td>
+									<td>11</td>
+									<td>4</td>
+									<td>3</td>
+									<td>3</td>
+									<td>-</td>
+								</tr>
+								<tr>
+									<td>17th</td>
+									<td>3</td>
+									<td>11</td>
+									<td>4</td>
+									<td>3</td>
+									<td>3</td>
+									<td>-</td>
+								</tr>
+								<tr>
+									<td>18th</td>
+									<td>3</td>
+									<td>11</td>
+									<td>4</td>
+									<td>3</td>
+									<td>3</td>
+									<td>-</td>
+								</tr>
+								<tr>
+									<td>19th</td>
+									<td>3</td>
+									<td>12</td>
+									<td>4</td>
+									<td>3</td>
+									<td>3</td>
+									<td>1</td>
+								</tr>
+								<tr>
+									<td>20th</td>
+									<td>3</td>
+									<td>13</td>
+									<td>4</td>
+									<td>3</td>
+									<td>3</td>
+									<td>1</td>
+								</tr>
+							</table>
+						</text>
+					</spellcasting3>
+					<studentofwar3>
+						<level type="number">3</level>
+						<name type="string">Student of War</name>
+						<specialization type="string">Battle Master</specialization>
+						<text type="formattedtext">
+							<p>At 3rd level, you gain proficiency with one type of artisan's tools of your choice.</p>
+						</text>
+					</studentofwar3>
+					<superiorcritical15>
+						<level type="number">15</level>
+						<name type="string">Superior Critical</name>
+						<specialization type="string">Champion</specialization>
+						<text type="formattedtext">
+							<p>Starting at 15th level, your weapon attacks score a critical hit on a roll of 18-20.</p>
+						</text>
+					</superiorcritical15>
+					<survivor18>
+						<level type="number">18</level>
+						<name type="string">Survivor</name>
+						<specialization type="string">Champion</specialization>
+						<text type="formattedtext">
+							<p>At 18th level, you attain the pinnacle of resilience in battle. At the start of each of your turns, you regain hit points equal to 5 + your Constitution modifier if you have no more than half of your hit points left. You don't gain this benefit if you have 0 hit points.</p>
+						</text>
+					</survivor18>
+					<warmagic7>
+						<level type="number">7</level>
+						<name type="string">War Magic</name>
+						<specialization type="string">Eldritch Knight</specialization>
+						<text type="formattedtext">
+							<p>Beginning at 7th level, when you use your action to cast a cantrip, you can make one weapon attack as a bonus action.</p>
+						</text>
+					</warmagic7>
+					<weaponbond3>
+						<level type="number">3</level>
+						<name type="string">Weapon Bond</name>
+						<specialization type="string">Eldritch Knight</specialization>
+						<text type="formattedtext">
+							<p>At 3rd level, you learn a ritual that creates a magical bond between yourself and one weapon. You perform the ritual over the course of 1 hour, which can be done during a short rest. The weapon must be within your reach throughout the ritual, at the conclusion of which you touch the weapon and forge the bond. Once you have bonded a weapon to yourself, you can't be disarmed of that weapon unless you are incapacitated. If it is on the same plane of existence, you can summon that weapon as a bonus action on your turn, causing it to teleport instantly to your hand. You can have up to two bonded weapons, but can summon only one at a time with your bonus action. If you attempt to bond with a third weapon, you must break the bond with one of the other two.</p>
+						</text>
+					</weaponbond3>
+				</features>
+				<hp>
+					<hitdice>
+						<name type="string">Hit Dice</name>
+						<text type="string">1d10 per fighter level</text>
+					</hitdice>
+					<hitpointsat1stlevel>
+						<name type="string">Hit Points at 1st Level</name>
+						<text type="string">10 + your Constitution modifier</text>
+					</hitpointsat1stlevel>
+					<hitpointsathigherlevels>
+						<name type="string">Hit Points at Higher Levels</name>
+						<text type="string">1d10 (or 6) + your Constitution modifier per fighter level after 1st</text>
+					</hitpointsathigherlevels>
+				</hp>
+				<locked type="number">1</locked>
+				<multiclassfeatures>
+					<extraattack5>
+						<level type="number">5</level>
+						<name type="string">Extra Attack</name>
+						<text type="formattedtext">
+							<p>If you gain the Extra Attack class feature from more than one class, the features don't add together. You can't make more than two attacks with this feature unless it says you do (as the fighter's version of Extra Attack does). Similarly, the warlock's eldritch invocation Thirsting Blade doesn't give you additional attacks if you also have Extra Attack.</p>
+						</text>
+					</extraattack5>
+					<spellcasting3>
+						<level type="number">3</level>
+						<name type="string">Spellcasting</name>
+						<text type="formattedtext">
+							<p>Your capacity for spellcasting depends partly on your combined levels in all your spellcasting classes and partly on your individual levels in those classes. Once you have the Spellcasting feature from more than one class, use the rules below. If you multiclass but have the Spellcasting feature from only one class, you follow the rules as described in that class.</p>
+							<p><b>Spells Known and Prepared. </b>You determine what spells you know and can prepare for each class individually, as if you were a single-classed member of that class. If you are a ranger 4/wizard 3, for example, you know three 1st-level ranger spells based on your levels in the ranger class. As 3rd-level wizard, you know three wizard cantrips, and your spellbook contains ten wizard spells, two of which (the two you gained when you reached 3rd level as a wizard) can be 2nd-level spells. If your Intelligence is 16, you can prepare six wizard spells from your spellbook.</p>
+							<p>Each spell you know and prepare is associated with one of your classes, and you use the spellcasting ability of that class when you cast the spell. Similarly, a spellcasting focus, such as a holy symbol, can be used only for the spells from the class associated with that focus.</p>
+							<p><b>Spell Slots. </b>You determine your available spell slots by adding together all your levels in the bard, cleric, druid, sorcerer, and wizard classes, half your levels (rounded down) in the paladin and ranger classes, and a third of your fighter or rogue levels (rounded down) if you have the Eldritch Knight or the Arcane Trickster feature. Use this total to determine your spell slots by consulting the Multiclass Spellcaster table.</p>
+							<p>If you have more than one spellcasting class, this table might give you spell slots of a level that is higher than the spells you know or can prepare. You can use those slots, but only to cast your lower-level spells. If a lower level spell that you cast, like burning hands, has an enhanced effect when cast using a higher-level slot, you can use the enhanced effect, even though you don't have any spells of that higher level.</p>
+							<p>For example, if you are the aforementioned ranger 4/ wizard 3, you count as a 5th-level character when determining your spell slots: you have four 1st-level slots, three 2nd-level slots, and two 3rd-level slots. However, you don't know any 3rd-level spells, nor do you know any 2nd-level ranger spells. You can use the spell slots of those levels to cast the spells you do know-and potentially enhance their effects.</p>
+							<p><b>Pact Magic. </b>If you have both the Spellcasting class feature and the Pact Magic class feature from the warlock class, you can use the spell slots you gain from the Pact Magic feature to cast spells you know or have prepared from classes with the Spellcasting class feature, and you can use the spell slots you gain from the Spellcasting class feature to cast warlock spells you know.</p>
+							<p><b>MulticlassSpellcaster:</b></p>
+							<p><b>SpellSlotsperSpellLevel</b></p>
+							<table>
+								<tr>
+									<td><b>Lvl.</b></td>
+									<td><b>1st</b></td>
+									<td><b>2nd</b></td>
+									<td><b>3rd</b></td>
+									<td><b>4th</b></td>
+									<td><b>5th</b></td>
+									<td><b>6th</b></td>
+									<td><b>7th</b></td>
+									<td><b>8th</b></td>
+									<td><b>9th</b></td>
+								</tr>
+								<tr>
+									<td>1st</td>
+									<td>2</td>
+									<td>-</td>
+									<td>-</td>
+									<td>-</td>
+									<td>-</td>
+									<td>-</td>
+									<td>-</td>
+									<td>-</td>
+									<td>-</td>
+								</tr>
+								<tr>
+									<td>2nd</td>
+									<td>3</td>
+									<td>-</td>
+									<td>-</td>
+									<td>-</td>
+									<td>-</td>
+									<td>-</td>
+									<td>-</td>
+									<td>-</td>
+									<td>-</td>
+								</tr>
+								<tr>
+									<td>3rd</td>
+									<td>4</td>
+									<td>2-</td>
+									<td>-</td>
+									<td>-</td>
+									<td>-</td>
+									<td>-</td>
+									<td>-</td>
+									<td>-</td>
+								</tr>
+								<tr>
+									<td>4th</td>
+									<td>4</td>
+									<td>3</td>
+									<td>-</td>
+									<td>-</td>
+									<td>-</td>
+									<td>-</td>
+									<td>-</td>
+									<td>-</td>
+									<td>-</td>
+								</tr>
+								<tr>
+									<td>5th</td>
+									<td>4</td>
+									<td>3</td>
+									<td>2</td>
+									<td>-</td>
+									<td>-</td>
+									<td>-</td>
+									<td>-</td>
+									<td>-</td>
+									<td>-</td>
+								</tr>
+								<tr>
+									<td>6th</td>
+									<td>4</td>
+									<td>3</td>
+									<td>3</td>
+									<td>-</td>
+									<td>-</td>
+									<td>-</td>
+									<td>-</td>
+									<td>-</td>
+									<td>-</td>
+								</tr>
+								<tr>
+									<td>7th</td>
+									<td>4</td>
+									<td>3</td>
+									<td>3</td>
+									<td>1</td>
+									<td>-</td>
+									<td>-</td>
+									<td>-</td>
+									<td>-</td>
+									<td>-</td>
+								</tr>
+								<tr>
+									<td>8th</td>
+									<td>4</td>
+									<td>3</td>
+									<td>3</td>
+									<td>2</td>
+									<td>-</td>
+									<td>-</td>
+									<td>-</td>
+									<td>-</td>
+									<td>-</td>
+								</tr>
+								<tr>
+									<td>9th</td>
+									<td>4</td>
+									<td>3</td>
+									<td>3</td>
+									<td>3</td>
+									<td>1</td>
+									<td>-</td>
+									<td>-</td>
+									<td>-</td>
+									<td>-</td>
+								</tr>
+								<tr>
+									<td>10th</td>
+									<td>4</td>
+									<td>3</td>
+									<td>3</td>
+									<td>3</td>
+									<td>2</td>
+									<td>-</td>
+									<td>-</td>
+									<td>-</td>
+									<td>-</td>
+								</tr>
+								<tr>
+									<td>11th</td>
+									<td>4</td>
+									<td>3</td>
+									<td>3</td>
+									<td>3</td>
+									<td>2</td>
+									<td>1</td>
+									<td>-</td>
+									<td>-</td>
+									<td>-</td>
+								</tr>
+								<tr>
+									<td>12th</td>
+									<td>4</td>
+									<td>3</td>
+									<td>3</td>
+									<td>3</td>
+									<td>2</td>
+									<td>1</td>
+									<td>-</td>
+									<td>-</td>
+									<td>-</td>
+								</tr>
+								<tr>
+									<td>13th</td>
+									<td>4</td>
+									<td>3</td>
+									<td>3</td>
+									<td>3</td>
+									<td>2</td>
+									<td>1</td>
+									<td>1</td>
+									<td>-</td>
+									<td>-</td>
+								</tr>
+								<tr>
+									<td>14th</td>
+									<td>4</td>
+									<td>3</td>
+									<td>3</td>
+									<td>3</td>
+									<td>2</td>
+									<td>1</td>
+									<td>1</td>
+									<td>-</td>
+									<td>-</td>
+								</tr>
+								<tr>
+									<td>15th</td>
+									<td>4</td>
+									<td>3</td>
+									<td>3</td>
+									<td>3</td>
+									<td>2</td>
+									<td>1</td>
+									<td>1</td>
+									<td>1</td>
+									<td>-</td>
+								</tr>
+								<tr>
+									<td>16th</td>
+									<td>4</td>
+									<td>3</td>
+									<td>3</td>
+									<td>3</td>
+									<td>2</td>
+									<td>1</td>
+									<td>1</td>
+									<td>1</td>
+									<td>-</td>
+								</tr>
+								<tr>
+									<td>17th</td>
+									<td>4</td>
+									<td>3</td>
+									<td>3</td>
+									<td>3</td>
+									<td>2</td>
+									<td>1</td>
+									<td>1</td>
+									<td>1</td>
+									<td>1</td>
+								</tr>
+								<tr>
+									<td>18th</td>
+									<td>4</td>
+									<td>3</td>
+									<td>3</td>
+									<td>3</td>
+									<td>3</td>
+									<td>1</td>
+									<td>1</td>
+									<td>1</td>
+									<td>1</td>
+								</tr>
+								<tr>
+									<td>19th</td>
+									<td>4</td>
+									<td>3</td>
+									<td>3</td>
+									<td>3</td>
+									<td>3</td>
+									<td>2</td>
+									<td>1</td>
+									<td>1</td>
+									<td>1</td>
+								</tr>
+								<tr>
+									<td>20th</td>
+									<td>4</td>
+									<td>3</td>
+									<td>3</td>
+									<td>3</td>
+									<td>3</td>
+									<td>2</td>
+									<td>2</td>
+									<td>1</td>
+									<td>1</td>
+								</tr>
+							</table>
+						</text>
+					</spellcasting3>
+				</multiclassfeatures>
+				<multiclassproficiencies>
+					<armor>
+						<name type="string">Armor</name>
+						<text type="string">Light armor, medium armor, shields</text>
+					</armor>
+					<weapons>
+						<name type="string">Weapons</name>
+						<text type="string">Simple weapons, martial weapons</text>
+					</weapons>
+				</multiclassproficiencies>
+				<name type="string">Fighter</name>
+				<proficiencies>
+					<armor>
+						<name type="string">Armor</name>
+						<text type="string">All armor, shields</text>
+					</armor>
+					<savingthrows>
+						<name type="string">Saving Throws</name>
+						<text type="string">Strength, Constitution</text>
+					</savingthrows>
+					<skills>
+						<name type="string">Skills</name>
+						<text type="string">Choose two skills from Acrobatics, Animal Handling, Athletics, History, Insight, Intimidation, Perception, and Survival</text>
+					</skills>
+					<tools>
+						<name type="string">Tools</name>
+						<text type="string">None</text>
+					</tools>
+					<weapons>
+						<name type="string">Weapons</name>
+						<text type="string">Simple weapons, martial weapons</text>
+					</weapons>
+				</proficiencies>
+				<text type="formattedtext">
+					<h>Fighter</h>
+					<p>A human in clanging plate armor holds her shield before her as she runs toward the massed goblins. An elf behind her, clad in studded leather armor, peppers the goblins with arrows loosed from his exquisite bow. The half-orc nearby shouts orders, helping the two combatants coordinate their assault to the best advantage.</p>
+					<p>A dwarf in chain mail interposes his shield between the ogre's club and his companion, knocking the deadly blow aside. His companion, a half-elf in scale armor, swings two scimitars in a blinding whirl as she circles the ogre, looking for a blind spot in its defenses.</p>
+					<p>A gladiator fights for sport in an arena, a master with his trident and net, skilled at toppling foes and moving them around for the crowd's delight-and his own tactical advantage. His opponent's sword flares with blue light an instant before she sends lightning flashing forth to smite him.</p>
+					<p>All of these heroes are fighters, perhaps the most diverse class of characters in the worlds of DUNGEONS &#38;amp; DRAGONS. Questing knights, conquering overlords, royal champions, elite foot soldiers, hardened mercenaries, and bandit kings-as fighters, they all share an unparalleled mastery with weapons and armor, and a thorough knowledge of the skills of combat. And they are well acquainted with death, both meting it out and staring it defiantly in the face.</p>
+					<h>Well-Rounded Specialists</h>
+					<p>Fighters learn the basics of all combat styles. Every fighter can swing an axe, fence with a rapier, wield a longsword or a greatsword, use a bow, and even trap foes in a net with some degree of skill. Likewise, a fighter is adept with shields and every form of armor. Beyond that basic degree of familiarity, each fighter specializes in a certain style of combat. Some concentrate on archery, some on fighting with two weapons at once, and some on augmenting their martial skills with magic. This combination of broad general ability and extensive specialization makes fighters superior combatants on battlefields and in dungeons alike.</p>
+					<h>Trained for Danger</h>
+					<p>Not every member of the city watch, the village militia, or the queen's army is a fighter. Most of these troops are relatively untrained soldiers with only the most basic combat knowledge. Veteran soldiers, military officers, trained bodyguards, dedicated knights, and similar figures are fighters.</p>
+					<p>Some fighters feel drawn to use their training as adventurers. The dungeon delving, monster slaying, and other dangerous work common among adventurers is second nature for a fighter, not all that different from the life he or she left behind. There are greater risks, perhaps, but also much greater rewards-few fighters in the city watch have the opportunity to discover a magic flame tongue sword, for example.</p>
+					<h>Creating a Fighter</h>
+					<p>As you build your fighter, think about two related elements of your character's background - Where did you get your combat training, and what set you apart from the mundane warriors around you? Were you particularly ruthless? Did you get extra help from a mentor, perhaps because of your exceptional dedication? What drove you to this training in the first place? A threat to your homeland, a thirst for revenge, or a need to prove yourself might all have been factors.</p>
+					<p>You might have enjoyed formal training in a noble's army or in a local militia. Perhaps you trained in a war academy, learning strategy, tactics, and military history. Or you might be self-taught-unpolished but well tested. Did you take up the sword as a way to escape the limits of life on a farm, or are you following a proud family tradition? Where did you acquire your weapons and armor? They might have been military issue or family heirlooms, or perhaps you scrimped and saved for years to buy them. Your armaments are now among your most important possessions-the only things that stand between you and death's embrace.</p>
+					<h>Quick Build</h>
+					<p>You can make a fighter quickly by following these suggestions. First, make Strength or Dexterity your highest ability score, depending on whether you want to focus on melee weapons or on archery (or finesse weapons). Your next-highest score should be Constitution. Second, choose the soldier background.</p>
+					<linklist>
+						<link class="reference_background" recordname="reference.backgrounddata.soldier@DD PHB Deluxe"><b>Background: </b></link>Soldier</linklist>
+					<h>The Fighter</h>
+					<table>
+						<tr>
+							<td><b>Level</b></td>
+							<td><b>Proficiency Bonus</b></td>
+							<td colspan="4"><b>Features</b></td>
+						</tr>
+						<tr>
+							<td>1st</td>
+							<td>+2</td>
+							<td colspan="4">Fighting Style, Second Wind</td>
+						</tr>
+						<tr>
+							<td>2nd</td>
+							<td>+2</td>
+							<td colspan="4">Action Surge (one use)</td>
+						</tr>
+						<tr>
+							<td>3rd</td>
+							<td>+2</td>
+							<td colspan="4">Martial Archetype</td>
+						</tr>
+						<tr>
+							<td>4th</td>
+							<td>+2</td>
+							<td colspan="4">Ability Score Improvement</td>
+						</tr>
+						<tr>
+							<td>5th</td>
+							<td>+3</td>
+							<td colspan="4">Extra Attack</td>
+						</tr>
+						<tr>
+							<td>6th</td>
+							<td>+3</td>
+							<td colspan="4">Ability Score Improvement</td>
+						</tr>
+						<tr>
+							<td>7th</td>
+							<td>+3</td>
+							<td colspan="4">Martial Archetype feature</td>
+						</tr>
+						<tr>
+							<td>8th</td>
+							<td>+3</td>
+							<td colspan="4">Ability Score Improvement</td>
+						</tr>
+						<tr>
+							<td>9th</td>
+							<td>+4</td>
+							<td colspan="4">Indomitable (one use)</td>
+						</tr>
+						<tr>
+							<td>10th</td>
+							<td>+4</td>
+							<td colspan="4">Martial Archetype feature</td>
+						</tr>
+						<tr>
+							<td>11th</td>
+							<td>+4</td>
+							<td colspan="4">Extra Attack (2)</td>
+						</tr>
+						<tr>
+							<td>12th</td>
+							<td>+4</td>
+							<td colspan="4">Ability Score Improvement</td>
+						</tr>
+						<tr>
+							<td>13th</td>
+							<td>+5</td>
+							<td colspan="4">Indomitable (two uses)</td>
+						</tr>
+						<tr>
+							<td>14th</td>
+							<td>+5</td>
+							<td colspan="4">Ability Score Improvement</td>
+						</tr>
+						<tr>
+							<td>15th</td>
+							<td>+5</td>
+							<td colspan="4">Martial Archetype feature</td>
+						</tr>
+						<tr>
+							<td>16th</td>
+							<td>+5</td>
+							<td colspan="4">Ability Score Improvement</td>
+						</tr>
+						<tr>
+							<td>17th</td>
+							<td>+6</td>
+							<td colspan="4">Action Surge (two uses), Indomitable (three uses)</td>
+						</tr>
+						<tr>
+							<td>18th</td>
+							<td>+6</td>
+							<td colspan="4">Martial Archetype feature</td>
+						</tr>
+						<tr>
+							<td>19th</td>
+							<td>+6</td>
+							<td colspan="4">Ability Score Improvement</td>
+						</tr>
+						<tr>
+							<td>20th</td>
+							<td>+6</td>
+							<td colspan="4">Extra Attack (3)</td>
+						</tr>
+					</table>
+					<h>Class Features</h>
+					<p>As a fighter, you gain the following class features.</p>
+					<h>Hit Points</h>
+					<p><b>Hit Dice: </b>1d10 per fighter level</p>
+					<p><b>Hit Points At 1st Level: </b>10 + your Constitution modifier</p>
+					<p><b>Hit Points At Higher Levels: </b>1d10 (or 6) + your Constitution modifier per fighter level after 1st</p>
+					<h>Proficiencies</h>
+					<p><b>Armor: </b>All armor, shields</p>
+					<p><b>Weapons: </b>Simple weapons, martial weapons</p>
+					<p><b>Tools: </b>None</p>
+					<p><b>Saving Throws: </b>Strength, Constitution</p>
+					<p><b>Skills: </b>Choose two skills from Acrobatics, Animal Handling, Athletics, History, Insight, Intimidation, Perception, and Survival</p>
+					<h>Equipment</h>
+					<p>You start with the following equipment, in addition to the equipment granted by your background:</p>
+					<list>
+						<li>(a) chain mail or (b) leather, longbow, and 20 arrows</li>
+						<li>(a) a martial weapon and a shield or (b) two martial weapons</li>
+						<li>(a) a light crossbow and 20 bolts or (b) two handaxes</li>
+						<li>(a) a dungeoneer's pack or (b) an explorer's pack</li>
+					</list>
+					<linklist>
+						<link class="reference_weapontable" recordname="reference.equipmentlists.weapontable@DD PHB Deluxe"><b>Link: </b></link>Weapon List</linklist>
+						<link class="reference_armortable" recordname="reference.equipmentlists.armortable@DD PHB Deluxe"><b>Link: </b></link>Armor List
+						<link class="reference_adventuringgeartable" recordname="reference.equipmentlists.adventuringgeartable@DD PHB Deluxe"><b>Link: </b></link>Adventuring Gear
+						<link class="reference_adventuringgeartable" recordname="reference.equipmentlists.toolstable@DD PHB Deluxe"><b>Link: </b></link>Tools
+					<h>Features</h>
+					<linklist>
+						<link class="reference_classfeature" recordname="..features.fightingstyle1">Fighting Style</link>
+						<link class="reference_classfeature" recordname="..features.secondwind1">Second Wind</link>
+						<link class="reference_classfeature" recordname="..features.actionsurge2">Action Surge</link>
+						<link class="reference_classfeature" recordname="..features.martialarchetype3">Martial Archetype</link>
+						<link class="reference_classfeature" recordname="..features.abilityscoreimprovement4">Ability Score Improvement</link>
+						<link class="reference_classfeature" recordname="..features.extraattack5">Extra Attack</link>
+						<link class="reference_classfeature" recordname="..features.indomitable9">Indomitable</link>
+					</linklist>
+					<h>Martial Archetypes</h>
+					<p>Different fighters choose different approaches to perfecting their fighting prowess. The martial archetype you choose to emulate reflects your approach.</p>
+					<linklist>
+						<link class="reference_classability" recordname="..abilities.champion">Champion</link>
+						<link class="reference_classability" recordname="..abilities.battlemaster">Battle Master</link>
+						<link class="reference_classability" recordname="..abilities.eldritchknight">Eldritch Knight</link>
+					</linklist>
+				</text>
+			</id-00010>
